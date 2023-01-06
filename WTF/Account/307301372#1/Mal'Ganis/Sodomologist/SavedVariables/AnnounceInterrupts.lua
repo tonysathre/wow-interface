@@ -9,8 +9,8 @@ AnnounceInterruptsDB = {
 	["message"] = "Interrupted %sl on %t",
 	["outdoors"] = true,
 	["channel"] = "PARTY",
-	["includePets"] = true,
+	["inScenario"] = true,
 	["smartChannel"] = true,
 	["printedOnce"] = true,
-	["inScenario"] = true,
+	["includePets"] = true,
 }

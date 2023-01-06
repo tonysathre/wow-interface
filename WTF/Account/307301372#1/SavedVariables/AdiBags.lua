@@ -39,7 +39,12 @@ AdiBagsDB = {
 		},
 		["AdiBags_TooltipInfo"] = {
 		},
-		["MoneyFrame"] = {
+		["Equipment"] = {
+			["profiles"] = {
+				["Default"] = {
+					["armorTypes"] = true,
+				},
+			},
 		},
 		["DataSource"] = {
 		},
@@ -49,12 +54,7 @@ AdiBagsDB = {
 		},
 		["Junk"] = {
 		},
-		["Equipment"] = {
-			["profiles"] = {
-				["Default"] = {
-					["armorTypes"] = true,
-				},
-			},
+		["MoneyFrame"] = {
 		},
 	},
 	["profileKeys"] = {
@@ -73,13 +73,14 @@ AdiBagsDB = {
 					["yOffset"] = 114.0000762939453,
 				},
 				["Backpack"] = {
-					["xOffset"] = -37.68825468486466,
-					["yOffset"] = 69.36304424648051,
+					["xOffset"] = -132.8666210704105,
+					["point"] = "TOPRIGHT",
+					["yOffset"] = -173.1466402472288,
 				},
 			},
 			["columnWidth"] = {
-				["Bank"] = 12,
 				["Backpack"] = 12,
+				["Bank"] = 12,
 			},
 			["positionMode"] = "manual",
 		},

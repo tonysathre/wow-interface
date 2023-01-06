@@ -5,7 +5,7 @@ MythicDungeonToolsDB = {
 	},
 	["global"] = {
 		["anchorTo"] = "TOPLEFT",
-		["scale"] = 1.3,
+		["currentDungeonIdx"] = 47,
 		["currentDifficulty"] = 1,
 		["MDI"] = {
 		},
@@ -18,9 +18,8 @@ MythicDungeonToolsDB = {
 					["value"] = {
 						["currentPull"] = 1,
 						["currentSublevel"] = 1,
-						["pulls"] = {
+						["riftOffsets"] = {
 							{
-								["color"] = "ff3eff",
 							}, -- [1]
 						},
 						["currentDungeonIdx"] = 42,
@@ -28,17 +27,18 @@ MythicDungeonToolsDB = {
 						["selection"] = {
 							1, -- [1]
 						},
-						["riftOffsets"] = {
+						["pulls"] = {
 							{
+								["color"] = "ff3eff",
 							}, -- [1]
 						},
 					},
-					["difficulty"] = 1,
 					["mdi"] = {
 						["freeholdJoined"] = false,
-						["beguiling"] = 1,
 						["freehold"] = 1,
+						["beguiling"] = 1,
 					},
+					["difficulty"] = 1,
 				}, -- [1]
 			},
 			[47] = {
@@ -48,8 +48,9 @@ MythicDungeonToolsDB = {
 					["value"] = {
 						["currentPull"] = 1,
 						["currentSublevel"] = 1,
-						["riftOffsets"] = {
+						["pulls"] = {
 							{
+								["color"] = "ff3eff",
 							}, -- [1]
 						},
 						["currentDungeonIdx"] = 47,
@@ -57,25 +58,20 @@ MythicDungeonToolsDB = {
 						["selection"] = {
 							1, -- [1]
 						},
-						["pulls"] = {
+						["riftOffsets"] = {
 							{
-								["color"] = "ff3eff",
 							}, -- [1]
 						},
 					},
+					["difficulty"] = 1,
 					["mdi"] = {
 						["freeholdJoined"] = false,
-						["beguiling"] = 1,
 						["freehold"] = 1,
+						["beguiling"] = 1,
 					},
-					["difficulty"] = 1,
 				}, -- [1]
 			},
 		},
-		["anchorFrom"] = "TOPLEFT",
-		["version"] = 40120,
-		["xoffset"] = 125.9999847412109,
-		["currentDungeonIdx"] = 47,
 		["colorPaletteInfo"] = {
 			["customPaletteValues"] = {
 				{
@@ -140,6 +136,10 @@ MythicDungeonToolsDB = {
 				}, -- [12]
 			},
 		},
+		["version"] = 40120,
+		["xoffset"] = 125.9999847412109,
+		["scale"] = 1.3,
+		["anchorFrom"] = "TOPLEFT",
 		["yoffset"] = -80.00000762939453,
 	},
 }

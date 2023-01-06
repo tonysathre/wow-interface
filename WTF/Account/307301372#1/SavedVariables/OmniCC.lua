@@ -1,12 +1,12 @@
 
 OmniCCDB = {
-	["profileKeys"] = {
-		["Superpoopy - Thrall"] = "Default",
-		["Sodomologist - Mal'Ganis"] = "Default",
-	},
 	["global"] = {
 		["dbVersion"] = 6,
 		["addonVersion"] = "10.0.2",
+	},
+	["profileKeys"] = {
+		["Superpoopy - Thrall"] = "Default",
+		["Sodomologist - Mal'Ganis"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -75,10 +75,10 @@ OmniCCDB = {
 			["themes"] = {
 				["Debuffs"] = {
 					["textStyles"] = {
-						["minutes"] = {
-						},
 						["seconds"] = {
 							["scale"] = 2,
+						},
+						["minutes"] = {
 						},
 						["soon"] = {
 							["scale"] = 2,
@@ -92,26 +92,26 @@ OmniCCDB = {
 				},
 				["Default"] = {
 					["textStyles"] = {
+						["minutes"] = {
+						},
 						["seconds"] = {
 							["scale"] = 2,
-						},
-						["minutes"] = {
 						},
 						["soon"] = {
 							["scale"] = 2,
 						},
 					},
 					["fontSize"] = 12,
-					["minDuration"] = 0,
 					["effect"] = "none",
 					["fontFace"] = "Interface\\Addons\\OmniCD\\Media\\Fonts\\PTSansNarrow-Bold.ttf",
+					["minDuration"] = 0,
 				},
 				["ActionBars"] = {
 					["textStyles"] = {
-						["minutes"] = {
-						},
 						["seconds"] = {
 							["scale"] = 2,
+						},
+						["minutes"] = {
 						},
 						["soon"] = {
 							["scale"] = 2,
@@ -124,9 +124,9 @@ OmniCCDB = {
 				},
 				["Plater Nameplates Theme"] = {
 					["textStyles"] = {
-						["soon"] = {
-						},
 						["minutes"] = {
+						},
+						["soon"] = {
 						},
 						["seconds"] = {
 						},
@@ -138,10 +138,10 @@ OmniCCDB = {
 				},
 				["WeakAuras"] = {
 					["textStyles"] = {
-						["minutes"] = {
-						},
 						["seconds"] = {
 							["scale"] = 2,
+						},
+						["minutes"] = {
 						},
 						["soon"] = {
 							["scale"] = 2,
@@ -155,10 +155,10 @@ OmniCCDB = {
 				},
 				["Auras"] = {
 					["textStyles"] = {
-						["minutes"] = {
-						},
 						["seconds"] = {
 							["scale"] = 2,
+						},
+						["minutes"] = {
 						},
 						["soon"] = {
 							["scale"] = 2,

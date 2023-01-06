@@ -1,5 +1,13 @@
 
 RCGroupGearDB = {
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Superpoopy - Thrall"] = "Default",
+		["Sodomologist - Mal'Ganis"] = "Default",
+	},
 	["factionrealm"] = {
 		["Horde - Mal'Ganis"] = {
 			["cache"] = {
@@ -20,14 +28,6 @@ RCGroupGearDB = {
 					["rank"] = "Alcoholics",
 				},
 			},
-		},
-	},
-	["profileKeys"] = {
-		["Superpoopy - Thrall"] = "Default",
-		["Sodomologist - Mal'Ganis"] = "Default",
-	},
-	["profiles"] = {
-		["Default"] = {
 		},
 	},
 }

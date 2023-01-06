@@ -3,16 +3,16 @@ RaiderIO_Config = {
 }
 RaiderIO_LastCharacter = "us-Sodomologist-malganis"
 RaiderIO_MissingCharacters = {
-	["us-Konaruu-area-52"] = true,
-	["us-Wìley-malganis"] = true,
-	["us-Níc-farstriders"] = true,
-	["us-Wetspheeb-malganis"] = true,
-	["us-Deathknite-malganis"] = true,
-	["us-Sodomologist-malganis"] = true,
-	["us-Sunfyr-malganis"] = true,
-	["us-Desertrosee-malganis"] = true,
-	["us-Unknown-malganis"] = true,
-	["us-Fini-malganis"] = true,
+	["us-Ottery-malganis"] = true,
+	["us-Falayasqt-malganis"] = true,
+	["us-Damingus-malganis"] = true,
+	["us-Jickk-malganis"] = true,
+	["us-Punkinspicee-malganis"] = true,
+	["us-Firsthand-malganis"] = true,
+	["us-Beeknees-malganis"] = true,
+	["us-Zeakeal-malganis"] = true,
+	["us-Linthdora-malganis"] = true,
+	["us-Blindwarrior-malganis"] = true,
 }
 RaiderIO_MissingServers = {
 }
