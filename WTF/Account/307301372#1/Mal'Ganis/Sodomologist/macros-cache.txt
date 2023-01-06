@@ -1,0 +1,43 @@
+VER 3 010000000000000A "cc" "134400"
+#showtooltip
+/use [known:Howl of Terror] Howl of Terror; [known:Mortal Coil] Mortal Coil
+END
+VER 3 0100000000000003 "Curse of Tongues" "136140"
+#showtooltip Curse of Tongues
+/cast Amplify Curse
+/cast Curse of Tongues
+END
+VER 3 0100000000000004 "Curse of Weaknes" "136138"
+#showtooltip Curse of Weakness
+/cast Amplify Curse
+/cast Curse of Weakness
+END
+VER 3 0100000000000008 "Darkglare" "1416161"
+#showtooltip Summon Darkglare
+/cast Summon Darkglare
+END
+VER 3 0100000000000009 "Demonic Gateway" "607512"
+#showtooltip Demonic Gateway
+/cast Soulburn
+/use Demonic Gateway
+END
+VER 3 0100000000000006 "Drain Life" "136169"
+#showtooltip Drain Life
+/cast Soulburn
+/cast Drain Life
+END
+VER 3 0100000000000007 "Healthstone" "538745"
+#showtooltip Healthstone
+/stopcasting
+/cast Soulburn
+/use Healthstone
+END
+VER 3 0100000000000001 "Phantom-Vile" "134400"
+#showtooltip
+/use [known:Phantom Singularity] Phantom Singularity; [known:Vile Taint] Vile Taint
+END
+VER 3 0100000000000002 "Soul Rot" "3636850"
+#showtooltip
+/castsequence [known:Soul Rot] Soul Rot;
+/use Drain Life;
+END

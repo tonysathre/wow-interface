@@ -1,0 +1,4 @@
+
+SimpleItemLevelDB = {
+	["character"] = false,
+}
