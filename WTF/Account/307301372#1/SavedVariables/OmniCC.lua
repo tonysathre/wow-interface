@@ -87,6 +87,7 @@ OmniCCDB = {
 					["fontFace"] = "Interface\\Addons\\OmniCD\\Media\\Fonts\\PTSansNarrow-Bold.ttf",
 					["minDuration"] = 0,
 					["tenthsDuration"] = 5,
+					["effect"] = "none",
 					["name"] = "Debuffs",
 					["fontSize"] = 12,
 				},
@@ -118,9 +119,10 @@ OmniCCDB = {
 						},
 					},
 					["fontSize"] = 12,
-					["minDuration"] = 0,
+					["effect"] = "none",
 					["name"] = "ActionBars",
 					["fontFace"] = "Interface\\Addons\\OmniCD\\Media\\Fonts\\PTSansNarrow-Bold.ttf",
+					["minDuration"] = 0,
 				},
 				["Plater Nameplates Theme"] = {
 					["textStyles"] = {
@@ -132,9 +134,10 @@ OmniCCDB = {
 						},
 					},
 					["fontSize"] = 24,
-					["minDuration"] = 0,
+					["effect"] = "none",
 					["minEffectDuration"] = 0,
 					["fontFace"] = "Interface\\Addons\\OmniCD\\Media\\Fonts\\PTSansNarrow-Bold.ttf",
+					["minDuration"] = 0,
 				},
 				["WeakAuras"] = {
 					["textStyles"] = {
@@ -167,7 +170,7 @@ OmniCCDB = {
 					["fontFace"] = "Interface\\Addons\\OmniCD\\Media\\Fonts\\PTSansNarrow-Bold.ttf",
 					["minDuration"] = 0,
 					["tenthsDuration"] = 5,
-					["effect"] = "flare",
+					["effect"] = "none",
 					["name"] = "Auras",
 					["fontSize"] = 12,
 				},

@@ -22,89 +22,89 @@ ChatterDB = {
 				["Default"] = {
 					["colors"] = {
 						["General"] = {
-							["r"] = 0.7568628191947937,
-							["g"] = 0.8980392813682556,
 							["b"] = 0.9098039865493774,
+							["g"] = 0.8980392813682556,
+							["r"] = 0.7568628191947937,
 						},
 						["Services"] = {
-							["r"] = 1,
-							["g"] = 0.7529412508010864,
 							["b"] = 0.7529412508010864,
+							["g"] = 0.7529412508010864,
+							["r"] = 1,
 						},
 						["Raid Leader"] = {
-							["r"] = 1,
-							["g"] = 0.2823529541492462,
 							["b"] = 0.03529411926865578,
+							["g"] = 0.2823529541492462,
+							["r"] = 1,
 						},
 						["Party"] = {
-							["r"] = 0.6666666865348816,
-							["g"] = 0.6666666865348816,
 							["b"] = 1,
+							["g"] = 0.6666666865348816,
+							["r"] = 0.6666666865348816,
 						},
 						["Whisper"] = {
-							["r"] = 1,
-							["g"] = 0.501960813999176,
 							["b"] = 1,
+							["g"] = 0.501960813999176,
+							["r"] = 1,
 						},
 						["Raid"] = {
-							["r"] = 1,
-							["g"] = 0.4980392456054688,
 							["b"] = 0,
+							["g"] = 0.4980392456054688,
+							["r"] = 1,
 						},
 						["Raid Warning"] = {
-							["r"] = 1,
-							["g"] = 0.2823529541492462,
 							["b"] = 0,
+							["g"] = 0.2823529541492462,
+							["r"] = 1,
 						},
 						["Party Leader"] = {
-							["r"] = 0.4627451300621033,
-							["g"] = 0.7843137979507446,
 							["b"] = 1,
+							["g"] = 0.7843137979507446,
+							["r"] = 0.4627451300621033,
 						},
 						["Instance"] = {
-							["r"] = 1,
-							["g"] = 0.4980392456054688,
 							["b"] = 0,
+							["g"] = 0.4980392456054688,
+							["r"] = 1,
 						},
 						["Yell"] = {
-							["r"] = 1,
-							["g"] = 0.250980406999588,
 							["b"] = 0.250980406999588,
+							["g"] = 0.250980406999588,
+							["r"] = 1,
 						},
 						["LocalDefense"] = {
-							["r"] = 0.9098039865493774,
-							["g"] = 0.8862745761871338,
 							["b"] = 0.4666666984558106,
+							["g"] = 0.8862745761871338,
+							["r"] = 0.9098039865493774,
 						},
 						["Real ID Whisper"] = {
-							["r"] = 0,
-							["g"] = 1,
 							["b"] = 0.9647059440612793,
+							["g"] = 1,
+							["r"] = 0,
 						},
 						["Say"] = {
-							["r"] = 1,
-							["g"] = 1,
 							["b"] = 1,
-						},
-						["Guild"] = {
-							["r"] = 0.250980406999588,
 							["g"] = 1,
-							["b"] = 0.250980406999588,
-						},
-						["Instance Leader"] = {
 							["r"] = 1,
-							["g"] = 0.2823529541492462,
-							["b"] = 0.03529411926865578,
 						},
 						["Trade"] = {
-							["r"] = 0.9098039865493774,
-							["g"] = 0.6196078658103943,
 							["b"] = 0.4666666984558106,
+							["g"] = 0.6196078658103943,
+							["r"] = 0.9098039865493774,
+						},
+						["Instance Leader"] = {
+							["b"] = 0.03529411926865578,
+							["g"] = 0.2823529541492462,
+							["r"] = 1,
+						},
+						["Guild"] = {
+							["b"] = 0.250980406999588,
+							["g"] = 1,
+							["r"] = 0.250980406999588,
 						},
 						["Officer"] = {
-							["r"] = 0.250980406999588,
-							["g"] = 0.7529412508010864,
 							["b"] = 0.250980406999588,
+							["g"] = 0.7529412508010864,
+							["r"] = 0.250980406999588,
 						},
 					},
 				},
@@ -131,15 +131,23 @@ ChatterDB = {
 		},
 		["EditBox"] = {
 		},
-		["Mousewheel Scroll"] = {
+		["JustifyText"] = {
 		},
 		["ChatTabs"] = {
 		},
-		["ChatFont"] = {
+		["Highlight"] = {
 			["profiles"] = {
 				["Default"] = {
-					["font"] = "PT Sans Narrow Bold",
-					["fontsize"] = 13,
+					["customChannels"] = {
+						["WHISPER"] = "Air Horn",
+						["RAID_LEADER"] = "Air Horn",
+						["PARTY"] = "Air Horn",
+					},
+					["highlights"] = {
+						["WHISPER"] = true,
+						["RAID_LEADER"] = true,
+						["PARTY"] = true,
+					},
 				},
 			},
 		},
@@ -151,59 +159,51 @@ ChatterDB = {
 			["realm"] = {
 				["Mal'Ganis"] = {
 					["history"] = {
-						"/laugh", -- [1]
-						"/p good shit", -- [2]
-						"/p gg", -- [3]
-						"/simc", -- [4]
-						"/way #2023 56.2 75.8 Initiate Radiya", -- [5]
-						"/s nothing? wtf", -- [6]
-						"/run leaplus()", -- [7]
-						"/reload", -- [8]
-						"/omnicd", -- [9]
-						"/omnicc", -- [10]
-						"/omnicc", -- [11]
-						"/wa", -- [12]
-						"/wa", -- [13]
-						"/wa", -- [14]
-						"/wa", -- [15]
-						"/bt", -- [16]
-						"/wa", -- [17]
-						"/wa", -- [18]
-						"/wa", -- [19]
-						"/wa", -- [20]
-						"/wa", -- [21]
+						"/omnicc", -- [1]
+						"/omnicc", -- [2]
+						"/omnicc", -- [3]
+						"/reload", -- [4]
+						"/plater", -- [5]
+						"/p hai", -- [6]
+						"/cw Legicy wanna run some after i finish this one?", -- [7]
+						"/cw Legicy you in one now?", -- [8]
+						"/cw Legicy we havent started yet", -- [9]
+						"/cw Legicy need two more dps still", -- [10]
+						"/cw Legicy its a 9 shadowmoon", -- [11]
+						"/cw Legicy okay", -- [12]
+						"/p ty", -- [13]
+						"/p idk what happened. the world quest vehile stopped and it removed me from the group", -- [14]
+						"/p jesus the lag", -- [15]
+						"/p we dont have lust? go other way?", -- [16]
+						"/p what happened?", -- [17]
+						"/p normally skip second balls because the winds are aids", -- [18]
+						"/p so do second balls or no?", -- [19]
+						"/p one more", -- [20]
+						"/p pz", -- [21]
 						"/wa", -- [22]
 						"/wa", -- [23]
-						"/s hes on passive", -- [24]
-						"/s ...", -- [25]
-						"/point", -- [26]
-						"/suf", -- [27]
-						"/suf", -- [28]
-						"/suf", -- [29]
-						"/suf", -- [30]
-						"/bt", -- [31]
-						"/suf", -- [32]
+						"/p yo", -- [24]
+						"/p stack, rotate clockwise?", -- [25]
+						"/p ?", -- [26]
+						"/p get in green circle to clear", -- [27]
+						"/p soul flame makes my game lag so hard on that fight", -- [28]
+						"/p yeah i didnt want to", -- [29]
+						"/p its aids", -- [30]
+						"/p someone did one, so i followed, but i didnt think you normally do it", -- [31]
+						"/p gg", -- [32]
 					},
 				},
 			},
 		},
-		["Highlight"] = {
+		["ChatFont"] = {
 			["profiles"] = {
 				["Default"] = {
-					["customChannels"] = {
-						["PARTY"] = "Air Horn",
-						["RAID_LEADER"] = "Air Horn",
-						["WHISPER"] = "Air Horn",
-					},
-					["highlights"] = {
-						["PARTY"] = true,
-						["RAID_LEADER"] = true,
-						["WHISPER"] = true,
-					},
+					["font"] = "PT Sans Narrow Bold",
+					["fontsize"] = 13,
 				},
 			},
 		},
-		["JustifyText"] = {
+		["Mousewheel Scroll"] = {
 		},
 	},
 	["profileKeys"] = {

@@ -90,229 +90,185 @@ WQTrackerDB = {
 				[205547] = true,
 				[163823] = true,
 				[203125] = true,
-				[202956] = true,
-				[70199] = true,
+				[202957] = true,
+				[203126] = true,
 				[157672] = true,
 				[163824] = true,
-				[203126] = true,
+				[70199] = true,
 				[202955] = true,
 				[68701] = true,
-				[155161] = true,
-				[155741] = true,
+				[163831] = true,
+				[202953] = true,
 				[202952] = true,
-				[205555] = true,
+				[202750] = true,
 				[70196] = true,
 				[203127] = true,
 				[152414] = true,
-				[152615] = true,
-				[154206] = true,
-				[154937] = true,
-				[155160] = true,
-				[155747] = true,
+				[205504] = true,
+				[154899] = true,
+				[57159] = true,
+				[163830] = true,
+				[152614] = true,
 				[202951] = true,
 				[154933] = true,
 				[152415] = true,
-				[202749] = true,
+				[205554] = true,
 				[204738] = true,
-				[204740] = true,
+				[152638] = true,
 				[205838] = true,
-				[205815] = true,
+				[202954] = true,
 				[152637] = true,
 				[152639] = true,
 				[152416] = true,
-				[155159] = true,
-				[152635] = true,
+				[163829] = true,
+				[205814] = true,
 				[57160] = true,
 				[205839] = true,
-				[152636] = true,
-				[204737] = true,
-				[163822] = true,
-				[152417] = true,
-				[155746] = true,
-				[203481] = true,
 				[154208] = true,
+				[204737] = true,
+				[155746] = true,
+				[152417] = true,
+				[163822] = true,
+				[203481] = true,
+				[152636] = true,
 				[205840] = true,
-				[205814] = true,
-				[163829] = true,
+				[152635] = true,
+				[155159] = true,
 				[152641] = true,
-				[202954] = true,
-				[152638] = true,
+				[205815] = true,
+				[204740] = true,
 				[203482] = true,
-				[205554] = true,
+				[202749] = true,
 				[205841] = true,
-				[152614] = true,
-				[163830] = true,
-				[57159] = true,
-				[154899] = true,
-				[205504] = true,
+				[155747] = true,
+				[155160] = true,
+				[154937] = true,
+				[154206] = true,
+				[152615] = true,
 				[203483] = true,
-				[202750] = true,
+				[205555] = true,
 				[205842] = true,
-				[202953] = true,
-				[163831] = true,
+				[155741] = true,
+				[155161] = true,
 				[154938] = true,
 				[154205] = true,
-				[202957] = true,
+				[202956] = true,
 			},
-			["history"] = {
-				["period"] = {
-					["global"] = {
-						["221228"] = {
-							["quest"] = 19,
-							["resource"] = 600,
-							["gold"] = 13564300,
-						},
-						["230102"] = {
-							["resource"] = 700,
-							["quest"] = 13,
-							["gold"] = 6030900,
-						},
-						["230103"] = {
-							["resource"] = 340,
-							["quest"] = 11,
-							["gold"] = 11796400,
-						},
-						["221217"] = {
-							["resource"] = 250,
-							["quest"] = 5,
-							["gold"] = 2117100,
-						},
-						["221218"] = {
-							["quest"] = 8,
-							["resource"] = 150,
-							["gold"] = 5975900,
-						},
-						["221220"] = {
-							["resource"] = 191,
-							["quest"] = 5,
-							["gold"] = 9487400,
-						},
-						["221208"] = {
-							["quest"] = 3,
-						},
-						["221222"] = {
-							["quest"] = 3,
-						},
-						["221224"] = {
-							["quest"] = 1,
-						},
-						["221213"] = {
-							["quest"] = 2,
-						},
-						["221223"] = {
-							["quest"] = 1,
-							["gold"] = 2627800,
-						},
-						["230105"] = {
-							["resource"] = 105,
-							["quest"] = 5,
-							["gold"] = 978600,
-						},
-						["221210"] = {
-							["quest"] = 3,
-						},
-						["221226"] = {
-							["quest"] = 1,
-						},
-						["221205"] = {
-							["quest"] = 1,
-						},
-						["221206"] = {
-							["quest"] = 4,
-							["resource"] = 15,
-						},
-						["221227"] = {
-							["quest"] = 3,
-						},
-						["221207"] = {
-							["quest"] = 2,
-						},
-						["230106"] = {
-							["quest"] = 3,
-							["resource"] = 100,
-							["gold"] = 3195300,
-						},
-					},
-					["character"] = {
-						["Player-3684-09F3D899"] = {
-							["221228"] = {
-								["quest"] = 19,
-								["resource"] = 600,
-								["gold"] = 13564300,
-							},
-							["230102"] = {
-								["resource"] = 700,
-								["quest"] = 13,
-								["gold"] = 6030900,
-							},
-							["230103"] = {
-								["resource"] = 340,
-								["quest"] = 11,
-								["gold"] = 11796400,
-							},
-							["221217"] = {
-								["resource"] = 250,
-								["quest"] = 5,
-								["gold"] = 2117100,
-							},
-							["221218"] = {
-								["quest"] = 8,
-								["resource"] = 150,
-								["gold"] = 5975900,
-							},
-							["221220"] = {
-								["resource"] = 191,
-								["quest"] = 5,
-								["gold"] = 9487400,
-							},
-							["221208"] = {
-								["quest"] = 3,
-							},
-							["221222"] = {
-								["quest"] = 3,
-							},
-							["221224"] = {
-								["quest"] = 1,
-							},
-							["221213"] = {
-								["quest"] = 2,
-							},
-							["221223"] = {
-								["quest"] = 1,
-								["gold"] = 2627800,
-							},
-							["230105"] = {
-								["resource"] = 105,
-								["quest"] = 5,
-								["gold"] = 978600,
-							},
-							["221210"] = {
-								["quest"] = 3,
-							},
-							["221226"] = {
-								["quest"] = 1,
-							},
-							["221205"] = {
-								["quest"] = 1,
-							},
-							["221206"] = {
-								["quest"] = 4,
-								["resource"] = 15,
-							},
-							["221227"] = {
-								["quest"] = 3,
-							},
-							["221207"] = {
-								["quest"] = 2,
-							},
-							["230106"] = {
-								["quest"] = 3,
-								["resource"] = 100,
-								["gold"] = 3195300,
-							},
-						},
+			["rarescan"] = {
+				["recently_killed"] = {
+					["Player-3684-09F3D899"] = {
 					},
 				},
+				["playsound"] = true,
+			},
+			["filters"] = {
+				["pet_battles"] = false,
+				["pvp"] = false,
+			},
+			["TutorialTracker"] = 2,
+			["groupfinder"] = {
+				["askleave_delayed"] = false,
+				["autoleave"] = true,
+				["frame"] = {
+					["y"] = -161.9999237060547,
+					["x"] = 5.999471187591553,
+					["point"] = "LEFT",
+					["scale"] = 1,
+				},
+			},
+			["sort_order"] = {
+				["apower"] = 9,
+				["resource"] = 4,
+				["reputation"] = 7,
+				["equipment"] = 8,
+				["dungeon"] = 10,
+				["gold"] = 6,
+				["petbattle"] = 5,
+			},
+			["is_BFA_version"] = true,
+			["quests_tracked"] = {
+				["Player-3684-09F3D899"] = {
+				},
+				["Player-3678-07DF6B06"] = {
+				},
+			},
+			["quests_all_characters"] = {
+				["Player-3684-09F3D899"] = {
+					[70529] = {
+						["expireAt"] = 1673362870,
+						["rewardAmount"] = "|cff2292FF356",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Bracer_07",
+					},
+					[43943] = {
+						["expireAt"] = 1673190053,
+						["rewardAmount"] = "",
+						["rewardTexture"] = 1409002,
+					},
+					[70021] = {
+						["expireAt"] = 1673362870,
+						["rewardAmount"] = "|cff2292FF363",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Sword_39",
+					},
+					[70412] = {
+						["expireAt"] = 1673362870,
+						["rewardAmount"] = "",
+						["rewardTexture"] = 1519429,
+					},
+					[69995] = {
+						["expireAt"] = 1673362810,
+						["rewardAmount"] = "2",
+						["rewardTexture"] = 4643980,
+					},
+					[70426] = {
+						["expireAt"] = 1673362870,
+						["rewardAmount"] = "",
+						["rewardTexture"] = 1519429,
+					},
+					[45379] = {
+						["expireAt"] = 1673190026,
+						["rewardAmount"] = "",
+						["rewardTexture"] = 134245,
+					},
+					[70433] = {
+						["expireAt"] = 1673362865,
+						["rewardAmount"] = "",
+						["rewardTexture"] = 1519429,
+					},
+					[70067] = {
+						["expireAt"] = 1673362870,
+						["rewardAmount"] = "2",
+						["rewardTexture"] = 4643980,
+					},
+					[70420] = {
+						["expireAt"] = 1673362870,
+						["rewardAmount"] = "",
+						["rewardTexture"] = 1519429,
+					},
+					[70549] = {
+						["expireAt"] = 1673362870,
+						["rewardAmount"] = "|cff2292FF363",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Chest_Cloth_08",
+					},
+					[70625] = {
+						["expireAt"] = 1673362870,
+						["rewardAmount"] = "|cffc557FF379",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Shoulder_25",
+					},
+				},
+			},
+			["player_names"] = {
+				["Player-3684-09F3D899"] = {
+					["class"] = "WARLOCK",
+					["name"] = "Sodomologist",
+					["realm"] = "Mal'Ganis",
+				},
+				["Player-3678-07DF6B06"] = {
+					["class"] = "MAGE",
+					["name"] = "Superpoopy",
+					["realm"] = "Thrall",
+				},
+			},
+			["history"] = {
 				["quest"] = {
 					["global"] = {
 						[70016] = 1,
@@ -352,7 +308,7 @@ WQTrackerDB = {
 						[72029] = 1,
 						[71156] = 1,
 						[70529] = 1,
-						["total"] = 93,
+						["total"] = 94,
 						[66989] = 1,
 						[70172] = 3,
 						[71212] = 1,
@@ -371,17 +327,17 @@ WQTrackerDB = {
 						[70150] = 1,
 						[70412] = 1,
 						[70436] = 1,
-						[70432] = 1,
+						[70146] = 4,
 						[70021] = 1,
 						[70079] = 1,
-						[70699] = 1,
-						[70984] = 2,
-						[69990] = 1,
-						[70632] = 1,
-						[69928] = 1,
 						[69927] = 1,
+						[70984] = 2,
+						[69928] = 1,
+						[70632] = 1,
+						[69990] = 1,
+						[70699] = 2,
 						[66833] = 2,
-						[70146] = 4,
+						[70432] = 1,
 					},
 					["character"] = {
 						["Player-3684-09F3D899"] = {
@@ -422,7 +378,7 @@ WQTrackerDB = {
 							[72029] = 1,
 							[71156] = 1,
 							[70529] = 1,
-							["total"] = 93,
+							["total"] = 94,
 							[66989] = 1,
 							[70172] = 3,
 							[71212] = 1,
@@ -441,17 +397,175 @@ WQTrackerDB = {
 							[70150] = 1,
 							[70412] = 1,
 							[70436] = 1,
-							[70432] = 1,
+							[70146] = 4,
 							[70021] = 1,
 							[70079] = 1,
-							[70699] = 1,
-							[70984] = 2,
-							[69990] = 1,
-							[70632] = 1,
-							[69928] = 1,
 							[69927] = 1,
+							[70984] = 2,
+							[69928] = 1,
+							[70632] = 1,
+							[69990] = 1,
+							[70699] = 2,
 							[66833] = 2,
-							[70146] = 4,
+							[70432] = 1,
+						},
+					},
+				},
+				["period"] = {
+					["global"] = {
+						["221228"] = {
+							["resource"] = 600,
+							["quest"] = 19,
+							["gold"] = 13564300,
+						},
+						["230102"] = {
+							["quest"] = 13,
+							["resource"] = 700,
+							["gold"] = 6030900,
+						},
+						["230103"] = {
+							["quest"] = 11,
+							["resource"] = 340,
+							["gold"] = 11796400,
+						},
+						["221217"] = {
+							["quest"] = 5,
+							["resource"] = 250,
+							["gold"] = 2117100,
+						},
+						["221218"] = {
+							["resource"] = 150,
+							["quest"] = 8,
+							["gold"] = 5975900,
+						},
+						["221220"] = {
+							["quest"] = 5,
+							["resource"] = 191,
+							["gold"] = 9487400,
+						},
+						["221208"] = {
+							["quest"] = 3,
+						},
+						["221222"] = {
+							["quest"] = 3,
+						},
+						["221224"] = {
+							["quest"] = 1,
+						},
+						["221213"] = {
+							["quest"] = 2,
+						},
+						["221223"] = {
+							["quest"] = 1,
+							["gold"] = 2627800,
+						},
+						["230105"] = {
+							["quest"] = 5,
+							["resource"] = 105,
+							["gold"] = 978600,
+						},
+						["221210"] = {
+							["quest"] = 3,
+						},
+						["221227"] = {
+							["quest"] = 3,
+						},
+						["221205"] = {
+							["quest"] = 1,
+						},
+						["221206"] = {
+							["quest"] = 4,
+							["resource"] = 15,
+						},
+						["221226"] = {
+							["quest"] = 1,
+						},
+						["221207"] = {
+							["quest"] = 2,
+						},
+						["230106"] = {
+							["resource"] = 100,
+							["quest"] = 4,
+							["gold"] = 3195300,
+						},
+					},
+					["character"] = {
+						["Player-3684-09F3D899"] = {
+							["221228"] = {
+								["resource"] = 600,
+								["quest"] = 19,
+								["gold"] = 13564300,
+							},
+							["230102"] = {
+								["quest"] = 13,
+								["resource"] = 700,
+								["gold"] = 6030900,
+							},
+							["230103"] = {
+								["quest"] = 11,
+								["resource"] = 340,
+								["gold"] = 11796400,
+							},
+							["221217"] = {
+								["quest"] = 5,
+								["resource"] = 250,
+								["gold"] = 2117100,
+							},
+							["221218"] = {
+								["resource"] = 150,
+								["quest"] = 8,
+								["gold"] = 5975900,
+							},
+							["221220"] = {
+								["quest"] = 5,
+								["resource"] = 191,
+								["gold"] = 9487400,
+							},
+							["221208"] = {
+								["quest"] = 3,
+							},
+							["221222"] = {
+								["quest"] = 3,
+							},
+							["221224"] = {
+								["quest"] = 1,
+							},
+							["221213"] = {
+								["quest"] = 2,
+							},
+							["221223"] = {
+								["quest"] = 1,
+								["gold"] = 2627800,
+							},
+							["230105"] = {
+								["quest"] = 5,
+								["resource"] = 105,
+								["gold"] = 978600,
+							},
+							["221210"] = {
+								["quest"] = 3,
+							},
+							["221227"] = {
+								["quest"] = 3,
+							},
+							["221205"] = {
+								["quest"] = 1,
+							},
+							["221206"] = {
+								["quest"] = 4,
+								["resource"] = 15,
+							},
+							["221226"] = {
+								["quest"] = 1,
+							},
+							["221207"] = {
+								["quest"] = 2,
+							},
+							["230106"] = {
+								["resource"] = 100,
+								["quest"] = 4,
+								["gold"] = 3195300,
+							},
 						},
 					},
 				},
@@ -467,90 +581,6 @@ WQTrackerDB = {
 						},
 					},
 				},
-			},
-			["filters"] = {
-				["pet_battles"] = false,
-				["pvp"] = false,
-			},
-			["TutorialTracker"] = 2,
-			["groupfinder"] = {
-				["askleave_delayed"] = false,
-				["autoleave"] = true,
-				["frame"] = {
-					["y"] = -161.9999237060547,
-					["x"] = 5.999471187591553,
-					["point"] = "LEFT",
-					["scale"] = 1,
-				},
-			},
-			["sort_order"] = {
-				["apower"] = 9,
-				["resource"] = 4,
-				["reputation"] = 7,
-				["equipment"] = 8,
-				["dungeon"] = 10,
-				["petbattle"] = 5,
-				["gold"] = 6,
-			},
-			["is_BFA_version"] = true,
-			["quests_tracked"] = {
-				["Player-3684-09F3D899"] = {
-				},
-				["Player-3678-07DF6B06"] = {
-				},
-			},
-			["quests_all_characters"] = {
-				["Player-3684-09F3D899"] = {
-					[70654] = {
-						["expireAt"] = 1673060465,
-						["rewardAmount"] = "|cff2292FF363",
-						["rewardTexture"] = "Interface\\ICONS\\INV_Helmet_29",
-					},
-					[45379] = {
-						["expireAt"] = 1673190026,
-						["rewardAmount"] = "",
-						["rewardTexture"] = 134245,
-					},
-					[70425] = {
-						["expireAt"] = 1673060465,
-						["rewardAmount"] = "",
-						["rewardTexture"] = 1519429,
-					},
-					[70625] = {
-						["expireAt"] = 1673362865,
-						["rewardAmount"] = "|cffc557FF379",
-						["rewardTexture"] = "Interface\\ICONS\\INV_Shoulder_25",
-					},
-					[43943] = {
-						["expireAt"] = 1673190053,
-						["rewardAmount"] = "",
-						["rewardTexture"] = 1409002,
-					},
-					[70418] = {
-						["expireAt"] = 1673060465,
-						["rewardAmount"] = "",
-						["rewardTexture"] = 1519429,
-					},
-				},
-			},
-			["player_names"] = {
-				["Player-3684-09F3D899"] = {
-					["class"] = "WARLOCK",
-					["name"] = "Sodomologist",
-					["realm"] = "Mal'Ganis",
-				},
-				["Player-3678-07DF6B06"] = {
-					["class"] = "MAGE",
-					["name"] = "Superpoopy",
-					["realm"] = "Thrall",
-				},
-			},
-			["rarescan"] = {
-				["recently_killed"] = {
-					["Player-3684-09F3D899"] = {
-					},
-				},
-				["playsound"] = true,
 			},
 			["tomtom"] = {
 				["enabled"] = true,

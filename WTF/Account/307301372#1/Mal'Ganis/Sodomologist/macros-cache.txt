@@ -2,6 +2,11 @@ VER 3 010000000000000A "cc" "134400"
 #showtooltip
 /use [known:Howl of Terror] Howl of Terror; [known:Mortal Coil] Mortal Coil
 END
+VER 3 010000000000000B "Curse of Exhaust" "136162"
+#showtooltip Curse of Exhaustion
+/cast Amplify Curse
+/cast Curse of Exhaustion
+END
 VER 3 0100000000000003 "Curse of Tongues" "136140"
 #showtooltip Curse of Tongues
 /cast Amplify Curse
