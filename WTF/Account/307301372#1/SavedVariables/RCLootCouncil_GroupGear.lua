@@ -1,10 +1,18 @@
 
 RCGroupGearDB = {
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Superpoopy - Thrall"] = "Default",
+		["Sodomologist - Mal'Ganis"] = "Default",
+	},
 	["factionrealm"] = {
 		["Horde - Mal'Ganis"] = {
 			["cache"] = {
 				["Player-3684-09F3D899"] = {
-					["ilvl"] = 388.625,
+					["ilvl"] = 389.8125,
 					["rank"] = "Mushy Potato",
 				},
 				["Player-11-0E4543B1"] = {
@@ -20,14 +28,6 @@ RCGroupGearDB = {
 					["rank"] = "Alcoholics",
 				},
 			},
-		},
-	},
-	["profileKeys"] = {
-		["Superpoopy - Thrall"] = "Default",
-		["Sodomologist - Mal'Ganis"] = "Default",
-	},
-	["profiles"] = {
-		["Default"] = {
 		},
 	},
 }

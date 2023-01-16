@@ -6,10 +6,10 @@ NameplateSCTDB = {
 	["global"] = {
 		["yOffset"] = -150,
 		["animations"] = {
-			["autoattackcrit"] = "rainfall",
+			["autoattack"] = "verticalDown",
 			["ability"] = "verticalDown",
 			["crit"] = "rainfall",
-			["autoattack"] = "verticalDown",
+			["autoattackcrit"] = "rainfall",
 		},
 		["shouldDisplayOverkill"] = true,
 	},

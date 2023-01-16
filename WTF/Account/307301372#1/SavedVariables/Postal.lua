@@ -1,5 +1,9 @@
 
 Postal3DB = {
+	["profileKeys"] = {
+		["Superpoopy - Thrall"] = "Superpoopy - Thrall",
+		["Sodomologist - Mal'Ganis"] = "Sodomologist - Mal'Ganis",
+	},
 	["global"] = {
 		["BlackBook"] = {
 			["alts"] = {
@@ -7,10 +11,6 @@ Postal3DB = {
 				"Superpoopy|Thrall|Horde|40|MAGE", -- [2]
 			},
 		},
-	},
-	["profileKeys"] = {
-		["Superpoopy - Thrall"] = "Superpoopy - Thrall",
-		["Sodomologist - Mal'Ganis"] = "Sodomologist - Mal'Ganis",
 	},
 	["profiles"] = {
 		["Superpoopy - Thrall"] = {

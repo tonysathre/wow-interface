@@ -74,12 +74,12 @@ Bartender4DB = {
 								["x"] = -285,
 								["point"] = "BOTTOM",
 							},
+							["WoW10Layout"] = true,
+							["hidemacrotext"] = true,
 							["visibility"] = {
 								["custom"] = false,
 								["customdata"] = "[target=vehicle,exists]show;[overridebar]show;[possessbar]show;[bonusbar:5]show;hide",
 							},
-							["hidemacrotext"] = true,
-							["WoW10Layout"] = true,
 							["states"] = {
 								["customEnabled"] = false,
 								["custom"] = "[target=vehicle,exists]show;[overridebar]show;[possessbar]show;[bonusbar:5]show;hide",
@@ -125,7 +125,7 @@ Bartender4DB = {
 								["y"] = 143,
 								["x"] = 281,
 								["point"] = "BOTTOM",
-								["scale"] = 0.75,
+								["scale"] = 0.66,
 							},
 							["WoW10Layout"] = true,
 						}, -- [5]
@@ -168,9 +168,9 @@ Bartender4DB = {
 							["version"] = 3,
 							["position"] = {
 								["y"] = 143,
-								["x"] = -426,
+								["x"] = -408,
 								["point"] = "BOTTOM",
-								["scale"] = 0.75,
+								["scale"] = 0.66,
 							},
 							["WoW10Layout"] = true,
 						},
@@ -189,19 +189,19 @@ Bartender4DB = {
 				["WARLOCK"] = {
 					["actionbars"] = {
 						{
-							["showgrid"] = true,
-							["WoW10Layout"] = true,
-							["version"] = 3,
 							["position"] = {
 								["y"] = 82,
 								["x"] = -285,
 								["point"] = "BOTTOM",
 							},
+							["version"] = 3,
+							["WoW10Layout"] = true,
+							["showgrid"] = true,
 						}, -- [1]
 						{
 							["enabled"] = false,
-							["WoW10Layout"] = true,
 							["version"] = 3,
+							["WoW10Layout"] = true,
 							["position"] = {
 								["y"] = -223.9998168945313,
 								["x"] = -284.5,
@@ -232,8 +232,8 @@ Bartender4DB = {
 						}, -- [4]
 						{
 							["enabled"] = false,
-							["WoW10Layout"] = true,
 							["version"] = 3,
+							["WoW10Layout"] = true,
 							["position"] = {
 								["y"] = 184,
 								["x"] = -285,
@@ -241,8 +241,8 @@ Bartender4DB = {
 							},
 						}, -- [5]
 						{
-							["WoW10Layout"] = true,
 							["version"] = 3,
+							["WoW10Layout"] = true,
 							["position"] = {
 								["y"] = 133,
 								["x"] = -285,
@@ -275,19 +275,19 @@ Bartender4DB = {
 				["Superpoopy - Thrall"] = {
 					["actionbars"] = {
 						{
+							["showgrid"] = true,
+							["WoW10Layout"] = true,
+							["version"] = 3,
 							["position"] = {
 								["y"] = 82,
 								["x"] = -285,
 								["point"] = "BOTTOM",
 							},
-							["version"] = 3,
-							["WoW10Layout"] = true,
-							["showgrid"] = true,
 						}, -- [1]
 						{
 							["enabled"] = false,
-							["version"] = 3,
 							["WoW10Layout"] = true,
+							["version"] = 3,
 							["position"] = {
 								["y"] = -223.9998168945313,
 								["x"] = -284.5,
@@ -318,8 +318,8 @@ Bartender4DB = {
 						}, -- [4]
 						{
 							["enabled"] = false,
-							["version"] = 3,
 							["WoW10Layout"] = true,
+							["version"] = 3,
 							["position"] = {
 								["y"] = 184,
 								["x"] = -285,
@@ -327,8 +327,8 @@ Bartender4DB = {
 							},
 						}, -- [5]
 						{
-							["version"] = 3,
 							["WoW10Layout"] = true,
+							["version"] = 3,
 							["position"] = {
 								["y"] = 133,
 								["x"] = -285,
@@ -367,8 +367,8 @@ Bartender4DB = {
 				["Sodomologist - Mal'Ganis"] = {
 					["enabled"] = false,
 					["position"] = {
-						["y"] = -139.7220153808594,
-						["x"] = 475.122314453125,
+						["y"] = -215.9581604003906,
+						["x"] = -63.49993896484375,
 						["point"] = "CENTER",
 					},
 					["version"] = 3,
@@ -395,13 +395,14 @@ Bartender4DB = {
 			["profiles"] = {
 				["Sodomologist - Mal'Ganis"] = {
 					["fadeout"] = true,
-					["fadeoutalpha"] = 0,
+					["enabled"] = false,
+					["version"] = 3,
 					["position"] = {
-						["y"] = 283.5385131835938,
+						["y"] = 281.6880187988281,
 						["x"] = -3.499990463256836,
 						["point"] = "BOTTOMLEFT",
 					},
-					["version"] = 3,
+					["fadeoutalpha"] = 0,
 				},
 				["WARLOCK"] = {
 					["version"] = 3,
@@ -463,23 +464,23 @@ Bartender4DB = {
 				},
 				["WARLOCK"] = {
 					["enabled"] = true,
-					["artLayout"] = "MODERN",
-					["version"] = 3,
 					["position"] = {
 						["y"] = 87,
 						["x"] = -288.5,
 						["point"] = "BOTTOM",
 					},
+					["version"] = 3,
+					["artLayout"] = "MODERN",
 				},
 				["Superpoopy - Thrall"] = {
 					["enabled"] = true,
+					["artLayout"] = "MODERN",
+					["version"] = 3,
 					["position"] = {
 						["y"] = 87,
 						["x"] = -288.5,
 						["point"] = "BOTTOM",
 					},
-					["version"] = 3,
-					["artLayout"] = "MODERN",
 				},
 			},
 		},
@@ -574,12 +575,11 @@ Bartender4DB = {
 	},
 	["profiles"] = {
 		["Sodomologist - Mal'Ganis"] = {
-			["tooltip"] = "nocombat",
+			["blizzardVehicle"] = true,
 			["focuscastmodifier"] = false,
 			["minimapIcon"] = {
 				["hide"] = true,
 			},
-			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
 		["WARLOCK"] = {

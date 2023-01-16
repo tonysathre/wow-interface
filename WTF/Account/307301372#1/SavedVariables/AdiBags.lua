@@ -39,22 +39,35 @@ AdiBagsDB = {
 		},
 		["AdiBags_TooltipInfo"] = {
 		},
-		["MoneyFrame"] = {
-		},
-		["ItemSets"] = {
-		},
-		["CurrencyFrame"] = {
-		},
-		["DataSource"] = {
-		},
-		["Junk"] = {
-		},
 		["Equipment"] = {
 			["profiles"] = {
 				["Default"] = {
 					["armorTypes"] = true,
 				},
 			},
+		},
+		["CurrencyFrame"] = {
+			["profiles"] = {
+				["Default"] = {
+					["shown"] = {
+						["Storm Sigil"] = true,
+						["Darkmoon Prize Ticket"] = true,
+						["Honor"] = false,
+						["Dragon Isles Supplies"] = true,
+						["Valor"] = true,
+						["Elemental Overflow"] = true,
+						["Timewarped Badge"] = true,
+					},
+				},
+			},
+		},
+		["DataSource"] = {
+		},
+		["ItemSets"] = {
+		},
+		["Junk"] = {
+		},
+		["MoneyFrame"] = {
 		},
 	},
 	["profileKeys"] = {
@@ -66,6 +79,10 @@ AdiBagsDB = {
 			["virtualStacks"] = {
 				["stackable"] = true,
 			},
+			["columnWidth"] = {
+				["Backpack"] = 12,
+				["Bank"] = 12,
+			},
 			["maxHeight"] = 0.75,
 			["positions"] = {
 				["anchor"] = {
@@ -73,16 +90,10 @@ AdiBagsDB = {
 					["yOffset"] = 114.0000762939453,
 				},
 				["Backpack"] = {
-					["xOffset"] = -325.4136942520854,
-					["point"] = "TOPRIGHT",
-					["yOffset"] = -137.0440029905076,
+					["xOffset"] = 0.60400390625,
+					["yOffset"] = 228.4135437011719,
 				},
 			},
-			["columnWidth"] = {
-				["Bank"] = 12,
-				["Backpack"] = 12,
-			},
-			["positionMode"] = "manual",
 		},
 	},
 }
