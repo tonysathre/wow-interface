@@ -29,6 +29,8 @@ AdiBagsDB = {
 				},
 			},
 		},
+		["Dragonflight Crafting"] = {
+		},
 		["NewItem"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -46,6 +48,10 @@ AdiBagsDB = {
 				},
 			},
 		},
+		["MoneyFrame"] = {
+		},
+		["DataSource"] = {
+		},
 		["CurrencyFrame"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -61,18 +67,17 @@ AdiBagsDB = {
 				},
 			},
 		},
-		["DataSource"] = {
-		},
 		["ItemSets"] = {
 		},
 		["Junk"] = {
 		},
-		["MoneyFrame"] = {
+		["Dragonflight"] = {
 		},
 	},
 	["profileKeys"] = {
-		["Superpoopy - Thrall"] = "Default",
 		["Sodomologist - Mal'Ganis"] = "Default",
+		["Superpoopy - Thrall"] = "Default",
+		["Verypoopy - Thrall"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -83,15 +88,16 @@ AdiBagsDB = {
 				["Backpack"] = 12,
 				["Bank"] = 12,
 			},
-			["maxHeight"] = 0.75,
+			["maxHeight"] = 0.7,
 			["positions"] = {
 				["anchor"] = {
 					["xOffset"] = -27.9998779296875,
 					["yOffset"] = 114.0000762939453,
 				},
 				["Backpack"] = {
-					["xOffset"] = 0.60400390625,
-					["yOffset"] = 228.4135437011719,
+					["xOffset"] = -393.1778564453125,
+					["point"] = "TOPRIGHT",
+					["yOffset"] = -104.354248046875,
 				},
 			},
 		},

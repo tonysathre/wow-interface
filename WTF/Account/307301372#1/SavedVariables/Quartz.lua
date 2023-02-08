@@ -18,12 +18,7 @@ Quartz3DB = {
 		},
 		["Range"] = {
 		},
-		["Player"] = {
-			["profiles"] = {
-				["Default"] = {
-					["x"] = 835,
-				},
-			},
+		["Mirror"] = {
 		},
 		["EnemyCasts"] = {
 		},
@@ -46,20 +41,26 @@ Quartz3DB = {
 					["y"] = -130.9999389648438,
 					["point"] = "TOP",
 					["border"] = "Square Clean",
-					["texture"] = "Clean",
-					["x"] = 0,
 					["nametextposition"] = "center",
+					["x"] = 0,
+					["texture"] = "Clean",
 				},
 			},
 		},
 		["Interrupt"] = {
 		},
-		["Mirror"] = {
+		["Player"] = {
+			["profiles"] = {
+				["Default"] = {
+					["x"] = 835,
+				},
+			},
 		},
 		["Latency"] = {
 		},
 	},
 	["profileKeys"] = {
+		["Verypoopy - Thrall"] = "Default",
 		["Sodomologist - Mal'Ganis"] = "Default",
 	},
 	["profiles"] = {
@@ -68,9 +69,9 @@ Quartz3DB = {
 				["Player"] = false,
 				["GCD"] = false,
 				["Buff"] = false,
-				["Focus"] = false,
-				["Pet"] = false,
 				["EnemyCasts"] = true,
+				["Pet"] = false,
+				["Focus"] = false,
 			},
 		},
 	},

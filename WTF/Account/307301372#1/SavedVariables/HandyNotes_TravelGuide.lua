@@ -1,13 +1,16 @@
 
 HandyNotes_TravelGuideDB = {
 	["profileKeys"] = {
-		["Superpoopy - Thrall"] = "Superpoopy - Thrall",
 		["Sodomologist - Mal'Ganis"] = "Sodomologist - Mal'Ganis",
+		["Superpoopy - Thrall"] = "Superpoopy - Thrall",
+		["Verypoopy - Thrall"] = "Verypoopy - Thrall",
 	},
 	["profiles"] = {
+		["Sodomologist - Mal'Ganis"] = {
+		},
 		["Superpoopy - Thrall"] = {
 		},
-		["Sodomologist - Mal'Ganis"] = {
+		["Verypoopy - Thrall"] = {
 		},
 	},
 }

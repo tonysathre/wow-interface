@@ -1,8 +1,9 @@
 
 RarityDB = {
 	["profileKeys"] = {
-		["Superpoopy - Thrall"] = "Default",
 		["Sodomologist - Mal'Ganis"] = "Default",
+		["Superpoopy - Thrall"] = "Default",
+		["Verypoopy - Thrall"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -177,8 +178,8 @@ RarityDB = {
 						["repeatable"] = false,
 					},
 					["Drudge Remains"] = {
-						["repeatable"] = false,
 						["attempts"] = 2,
+						["repeatable"] = false,
 					},
 					["Gluth's Bone"] = {
 						["repeatable"] = false,
@@ -190,8 +191,8 @@ RarityDB = {
 						["repeatable"] = false,
 					},
 					["Wriggling Darkness"] = {
-						["repeatable"] = false,
 						["attempts"] = 1,
+						["repeatable"] = false,
 					},
 					["Lightless Ambusher"] = {
 						["repeatable"] = false,
@@ -343,8 +344,8 @@ RarityDB = {
 						["repeatable"] = false,
 					},
 					["Blessed Seed"] = {
-						["repeatable"] = false,
 						["attempts"] = 1,
+						["repeatable"] = false,
 					},
 					["Savage Cub"] = {
 						["repeatable"] = false,
@@ -429,25 +430,25 @@ RarityDB = {
 					["Lord Woofington"] = {
 						["repeatable"] = false,
 					},
-					["Blazing Rune"] = {
+					["Wicked Lurker"] = {
 						["repeatable"] = false,
 					},
 					["Droplet of Y'Shaarj"] = {
 						["repeatable"] = false,
 					},
-					["Bubbling Pustule"] = {
+					["Contained Essence of Dread"] = {
+						["repeatable"] = false,
+					},
+					["Silvershell Snapper"] = {
 						["repeatable"] = false,
 					},
 					["Smelly Gravestone"] = {
 						["repeatable"] = false,
 					},
-					["Undulating Blue Sac"] = {
-						["repeatable"] = false,
-					},
 					["Syd the Squid"] = {
 						["repeatable"] = false,
 					},
-					["Deviate Hatchling"] = {
+					["Dark Whelpling"] = {
 						["repeatable"] = false,
 					},
 					["Torghast Lurker"] = {
@@ -462,7 +463,7 @@ RarityDB = {
 					["Crystal of the Void"] = {
 						["repeatable"] = false,
 					},
-					["Darkshore Sentinel"] = {
+					["Sparkleshell Sandcrawler"] = {
 						["repeatable"] = false,
 					},
 					["Gilded Wader"] = {
@@ -507,9 +508,8 @@ RarityDB = {
 					["Snort"] = {
 						["repeatable"] = false,
 					},
-					["Rough-Hewn Remote"] = {
+					["Mosscoated Hopper"] = {
 						["repeatable"] = false,
-						["attempts"] = 1,
 					},
 					["Rotting Ghoul"] = {
 						["repeatable"] = false,
@@ -523,7 +523,7 @@ RarityDB = {
 					["Toxic Wasteling"] = {
 						["repeatable"] = false,
 					},
-					["Bronze Proto-Whelp"] = {
+					["Devoured Wader"] = {
 						["repeatable"] = false,
 					},
 					["Golden Eye"] = {
@@ -538,22 +538,13 @@ RarityDB = {
 					["Core of Hardened Ash"] = {
 						["repeatable"] = false,
 					},
-					["Vial of Roiling Emotions"] = {
+					["Moon Moon"] = {
 						["repeatable"] = false,
 					},
 					["Eye of Inquisition"] = {
 						["repeatable"] = false,
 					},
-					["Void Collar"] = {
-						["repeatable"] = false,
-					},
-					["Needleback Pup"] = {
-						["repeatable"] = false,
-					},
-					["Korthian Specimen"] = {
-						["repeatable"] = false,
-					},
-					["Murgle"] = {
+					["Fossorial Bile Larva"] = {
 						["repeatable"] = false,
 					},
 					["Magnataur Hunting Horn"] = {
@@ -562,34 +553,43 @@ RarityDB = {
 					["Porcupette"] = {
 						["repeatable"] = false,
 					},
-					["Essence of Pride"] = {
+					["Murgle"] = {
 						["repeatable"] = false,
 					},
-					["Stormwrath"] = {
+					["Feasting Larva"] = {
 						["repeatable"] = false,
 					},
-					["Budding Algan"] = {
-						["repeatable"] = false,
-					},
-					["Fuzzy Creepling"] = {
+					["Stormforged Rune"] = {
 						["repeatable"] = false,
 					},
 					["Darkmoon Eye"] = {
 						["repeatable"] = false,
 					},
-					["Transmutant"] = {
+					["Stormwrath"] = {
 						["repeatable"] = false,
 					},
 					["Grotesque Statue"] = {
 						["repeatable"] = false,
 					},
-					["Mana-Warped Egg"] = {
+					["Fuzzy Creepling"] = {
 						["repeatable"] = false,
 					},
-					["Spirit of the Spring"] = {
+					["Pair of Tiny Bat Wings"] = {
+						["repeatable"] = false,
+					},
+					["Transmutant"] = {
+						["repeatable"] = false,
+					},
+					["Glittering Ball of Yarn"] = {
 						["repeatable"] = false,
 					},
 					["Celestial Gift"] = {
+						["repeatable"] = false,
+					},
+					["Spawn of Garalon"] = {
+						["repeatable"] = false,
+					},
+					["Eye of Extermination"] = {
 						["repeatable"] = false,
 					},
 					["Blushing Spiderling"] = {
@@ -598,13 +598,13 @@ RarityDB = {
 					["Sunblade Rune of Activation"] = {
 						["repeatable"] = false,
 					},
-					["Frenzied Mawrat"] = {
+					["Trapped Stonefiend"] = {
 						["repeatable"] = false,
 					},
 					["Laughing Stonekin"] = {
 						["repeatable"] = false,
 					},
-					["Zur'aj the Depleted"] = {
+					["Whistle of Chromatic Bone"] = {
 						["repeatable"] = false,
 					},
 					["Thundering Scale of Akunda"] = {
@@ -615,34 +615,34 @@ RarityDB = {
 						["enabled"] = true,
 						["repeatable"] = false,
 					},
-					["Whistle of Chromatic Bone"] = {
+					["Nerubian Relic"] = {
 						["repeatable"] = false,
 					},
-					["Mogu Statue"] = {
+					["Kor'thik Swarmling"] = {
 						["repeatable"] = false,
 					},
-					["Disgusting Oozeling"] = {
+					["Grasping Manifestation"] = {
 						["repeatable"] = false,
 					},
 					["Spawn of Krag'wa"] = {
 						["repeatable"] = false,
 					},
-					["Sandkeep"] = {
+					["Mr. Grubbs"] = {
 						["repeatable"] = false,
 					},
-					["Fractured Obsidian Claw"] = {
+					["Albino Chimaeraling"] = {
 						["repeatable"] = false,
 					},
-					["Jadefire Spirit"] = {
+					["Azure Cloud Serpent Egg"] = {
 						["repeatable"] = false,
 					},
 					["Scuttle"] = {
 						["repeatable"] = false,
 					},
-					["Mr. Grubbs"] = {
+					["Breezy Essence"] = {
 						["repeatable"] = false,
 					},
-					["Seaborne Spore"] = {
+					["Captured Firefly"] = {
 						["repeatable"] = false,
 					},
 					["Tiny Fel Engine Key"] = {
@@ -654,13 +654,13 @@ RarityDB = {
 					["Zandalari Kneebiter"] = {
 						["repeatable"] = false,
 					},
-					["Mindlost Bloodfrenzy"] = {
+					["Nightmare Bell"] = {
 						["repeatable"] = false,
 					},
-					["Ironbound Collar"] = {
+					["Mogu Statue"] = {
 						["repeatable"] = false,
 					},
-					["Azure Crane Chick"] = {
+					["Sludge Feeler"] = {
 						["repeatable"] = false,
 					},
 					["Lump of Coal"] = {
@@ -672,12 +672,12 @@ RarityDB = {
 					["Bonebiter"] = {
 						["repeatable"] = false,
 					},
-					["Imperial Silkworm"] = {
+					["Quivering Blob"] = {
+						["attempts"] = 1,
 						["repeatable"] = false,
 					},
-					["Overcomplicated Controller"] = {
+					["Brinestone Algan"] = {
 						["repeatable"] = false,
-						["attempts"] = 1,
 					},
 					["Baby Crawg"] = {
 						["repeatable"] = false,
@@ -688,31 +688,32 @@ RarityDB = {
 					["Swirling Black Bottle"] = {
 						["repeatable"] = false,
 					},
-					["Brilliant Phoenix Hawk Feather"] = {
+					["Bone Serpent"] = {
 						["repeatable"] = false,
 					},
-					["Parrot Cage (Hyacinth Macaw)"] = {
+					["Enchanted Talon of Pa'ku"] = {
 						["repeatable"] = false,
 					},
-					["Clockwork Rocket Bot"] = {
+					["Twilight Summoning Portal"] = {
 						["repeatable"] = false,
+						["attempts"] = 1,
 					},
-					["Amber Goo Puddle"] = {
+					["Rotten Helper Box"] = {
 						["repeatable"] = false,
 					},
 					["Box With Faintly Glowing 'Air' Holes"] = {
 						["repeatable"] = false,
 					},
-					["Rotten Helper Box"] = {
+					["Albatross Feather"] = {
 						["repeatable"] = false,
 					},
 					["Gulp Froglet"] = {
 						["repeatable"] = false,
 					},
-					["Servant's Bell"] = {
+					["Smoldering Treat"] = {
 						["repeatable"] = false,
 					},
-					["Captured Firefly"] = {
+					["Parrot Cage (Green Wing Macaw)"] = {
 						["repeatable"] = false,
 					},
 					["Coldlight Surfrunner"] = {
@@ -721,11 +722,8 @@ RarityDB = {
 					["Unscathed Egg"] = {
 						["repeatable"] = false,
 					},
-					["Sky-Bo"] = {
-						["known"] = true,
+					["Bloodstone Tunneler"] = {
 						["repeatable"] = false,
-						["enabled"] = false,
-						["found"] = true,
 					},
 					["Thistleleaf Adventurer"] = {
 						["repeatable"] = false,
@@ -739,10 +737,10 @@ RarityDB = {
 					["Snowy Panda"] = {
 						["repeatable"] = false,
 					},
-					["Mark of Flame"] = {
+					["Wayward Spirit"] = {
 						["repeatable"] = false,
 					},
-					["Elementium Back Plate"] = {
+					["Brilliant Phoenix Hawk Feather"] = {
 						["repeatable"] = false,
 					},
 					["Scalebrood Hydra"] = {
@@ -754,7 +752,7 @@ RarityDB = {
 					["Fragment of Desire"] = {
 						["repeatable"] = false,
 					},
-					["Severed Tentacle"] = {
+					["Coral Lashling"] = {
 						["repeatable"] = false,
 					},
 					["Spawn of Nalaada"] = {
@@ -763,13 +761,13 @@ RarityDB = {
 					["Elementium Geode"] = {
 						["repeatable"] = false,
 					},
-					["Cursed Dune Watcher"] = {
+					["Littlehoof"] = {
 						["repeatable"] = false,
 					},
-					["Necrofin Tadpole"] = {
+					["Octopode Fry"] = {
 						["repeatable"] = false,
 					},
-					["Wayward Spirit"] = {
+					["Tinder Pup"] = {
 						["repeatable"] = false,
 					},
 					["Albino Buzzard"] = {
@@ -778,40 +776,40 @@ RarityDB = {
 					["Jademist Dancer"] = {
 						["repeatable"] = false,
 					},
-					["Amethyst Softshell"] = {
-						["repeatable"] = false,
-					},
-					["Littlehoof"] = {
-						["repeatable"] = false,
-					},
-					["Juvenile Brineshell"] = {
-						["repeatable"] = false,
-					},
-					["Octopode Fry"] = {
-						["repeatable"] = false,
-					},
-					["Viscidus Globule"] = {
-						["repeatable"] = false,
-					},
-					["Spectral Bell"] = {
-						["repeatable"] = false,
-					},
-					["Sultry Grimoire"] = {
-						["repeatable"] = false,
-					},
 					["Everburning Treant"] = {
-						["repeatable"] = false,
-					},
-					["Sandclaw Nestseeker"] = {
 						["repeatable"] = false,
 					},
 					["Land Shark"] = {
 						["repeatable"] = false,
 					},
+					["Juvenile Brineshell"] = {
+						["repeatable"] = false,
+					},
+					["Necrofin Tadpole"] = {
+						["repeatable"] = false,
+					},
+					["Viscidus Globule"] = {
+						["repeatable"] = false,
+					},
+					["Void Collar"] = {
+						["repeatable"] = false,
+					},
+					["Sultry Grimoire"] = {
+						["repeatable"] = false,
+					},
+					["Mawsworn Minion"] = {
+						["repeatable"] = false,
+					},
+					["Sandclaw Nestseeker"] = {
+						["repeatable"] = false,
+					},
+					["Spectral Bell"] = {
+						["repeatable"] = false,
+					},
 					["Skunky Alemental"] = {
 						["repeatable"] = false,
 					},
-					["Ashleaf Spriteling"] = {
+					["Bucket of Primordial Sludge"] = {
 						["repeatable"] = false,
 					},
 					["Zandalari Footslasher"] = {
@@ -835,16 +833,16 @@ RarityDB = {
 					["Spraybot 0D"] = {
 						["repeatable"] = false,
 					},
-					["Direhorn Runt"] = {
+					["Armored Vaultbot"] = {
 						["repeatable"] = false,
 					},
-					["Red-Hot Coal"] = {
+					["Box Labeled \"Danger: Void Rat Inside\""] = {
 						["repeatable"] = false,
 					},
 					["Adventurous Hopling Pack"] = {
 						["repeatable"] = false,
 					},
-					["Blighted Spore"] = {
+					["Chitterspine Needler"] = {
 						["repeatable"] = false,
 					},
 					["Kunchong Hatchling"] = {
@@ -856,31 +854,31 @@ RarityDB = {
 					["Baby Stonehide"] = {
 						["repeatable"] = false,
 					},
-					["Dripping Strider Egg"] = {
+					["Shadefeather Hatchling"] = {
 						["repeatable"] = false,
 					},
 					["Jar of Ashes"] = {
 						["repeatable"] = false,
 					},
-					["Sunscale Hatchling"] = {
-						["repeatable"] = false,
-					},
-					["Gu'chi Swarmling"] = {
-						["repeatable"] = false,
-					},
-					["Inky"] = {
-						["repeatable"] = false,
-					},
-					["Everliving Spore"] = {
+					["Filthy Bucket"] = {
 						["repeatable"] = false,
 					},
 					["Gahz'rooki's Summoning Stone"] = {
 						["repeatable"] = false,
 					},
-					["Phoenix Hatchling"] = {
+					["Inky"] = {
+						["repeatable"] = false,
+					},
+					["Binding of Cyclarus"] = {
 						["repeatable"] = false,
 					},
 					["Crimson Dredwing Pup"] = {
+						["repeatable"] = false,
+					},
+					["Phoenix Hatchling"] = {
+						["repeatable"] = false,
+					},
+					["Everliving Spore"] = {
 						["repeatable"] = false,
 					},
 					["Void-Scarred Hare"] = {
@@ -890,16 +888,17 @@ RarityDB = {
 						["repeatable"] = false,
 						["attempts"] = 1,
 					},
-					["Boneweave Hatchling"] = {
+					["Stinky Sack"] = {
 						["repeatable"] = false,
 					},
-					["Binding of Cyclarus"] = {
+					["Young Talbuk"] = {
 						["repeatable"] = false,
 					},
 					["Irongrasp"] = {
 						["repeatable"] = false,
 					},
-					["Rebellious Imp"] = {
+					["Ominous Pile of Snow"] = {
+						["attempts"] = 1,
 						["repeatable"] = false,
 					},
 					["Shell of Tide-Calling"] = {
@@ -908,7 +907,7 @@ RarityDB = {
 					["Skittering Eel"] = {
 						["repeatable"] = false,
 					},
-					["Instant Arcane Sanctum Security Kit"] = {
+					["Snarling Butterfly Crate"] = {
 						["repeatable"] = false,
 					},
 					["Violet Abyssal Eel"] = {
@@ -917,13 +916,13 @@ RarityDB = {
 					["Snowman Kit"] = {
 						["repeatable"] = false,
 					},
-					["Red Goren Egg"] = {
+					["Eye of Corruption"] = {
 						["repeatable"] = false,
 					},
-					["Snarly's Bucket"] = {
+					["Void-Scarred Anubisath"] = {
 						["repeatable"] = false,
 					},
-					["Bottle of Gloop"] = {
+					["Aqir Hivespawn"] = {
 						["repeatable"] = false,
 					},
 					["Fel Lasher"] = {
@@ -932,31 +931,22 @@ RarityDB = {
 					["Maw Stalker"] = {
 						["repeatable"] = false,
 					},
-					["Aqir Hivespawn"] = {
+					["Playful Frostkin"] = {
 						["repeatable"] = false,
 					},
-					["Playful Frostkin"] = {
+					["False Knucklebump"] = {
 						["repeatable"] = false,
 					},
 					["Sun Sproutling"] = {
 						["repeatable"] = false,
 					},
-					["Cavern Moccasin"] = {
+					["Deathsting Scorpid"] = {
 						["repeatable"] = false,
 					},
 					["Arachnoid Skitterbot"] = {
 						["repeatable"] = false,
 					},
-					["Imbued Jade Fragment"] = {
-						["repeatable"] = false,
-					},
-					["Muckbreaths's Bucket"] = {
-						["repeatable"] = false,
-					},
-					["Hollow Reed"] = {
-						["repeatable"] = false,
-					},
-					["Thunderscale Whelpling"] = {
+					["Zomstrok"] = {
 						["repeatable"] = false,
 					},
 					["Putricide's Alchemy Supplies"] = {
@@ -965,16 +955,25 @@ RarityDB = {
 						["found"] = true,
 						["repeatable"] = false,
 					},
-					["Zomstrok"] = {
+					["Hollow Reed"] = {
+						["repeatable"] = false,
+					},
+					["Thunderscale Whelpling"] = {
+						["repeatable"] = false,
+					},
+					["Muckbreaths's Bucket"] = {
+						["repeatable"] = false,
+					},
+					["Imbued Jade Fragment"] = {
 						["repeatable"] = false,
 					},
 					["Vibrating Stone"] = {
 						["repeatable"] = false,
 					},
-					["Deathsting Scorpid"] = {
+					["Cavern Moccasin"] = {
 						["repeatable"] = false,
 					},
-					["False Knucklebump"] = {
+					["Blighted Spore"] = {
 						["repeatable"] = false,
 					},
 					["Firesting Buzzer"] = {
@@ -983,23 +982,22 @@ RarityDB = {
 					["Azure Whelpling"] = {
 						["repeatable"] = false,
 					},
-					["Void-Scarred Anubisath"] = {
+					["Bottle of Gloop"] = {
 						["repeatable"] = false,
 					},
-					["Eye of Corruption"] = {
+					["Snarly's Bucket"] = {
 						["repeatable"] = false,
 					},
-					["Snarling Butterfly Crate"] = {
+					["Boneweave Hatchling"] = {
 						["repeatable"] = false,
 					},
-					["Young Talbuk"] = {
+					["Rebellious Imp"] = {
 						["repeatable"] = false,
 					},
-					["Ominous Pile of Snow"] = {
+					["Red Goren Egg"] = {
 						["repeatable"] = false,
-						["attempts"] = 1,
 					},
-					["Stinky Sack"] = {
+					["Instant Arcane Sanctum Security Kit"] = {
 						["repeatable"] = false,
 					},
 					["Voru'kar Leecher"] = {
@@ -1011,19 +1009,19 @@ RarityDB = {
 					["Firewing"] = {
 						["repeatable"] = false,
 					},
-					["Filthy Bucket"] = {
+					["Gu'chi Swarmling"] = {
 						["repeatable"] = false,
 					},
-					["Shadefeather Hatchling"] = {
+					["Dripping Strider Egg"] = {
 						["repeatable"] = false,
 					},
-					["Chitterspine Needler"] = {
+					["Sunscale Hatchling"] = {
 						["repeatable"] = false,
 					},
-					["Box Labeled \"Danger: Void Rat Inside\""] = {
+					["Red-Hot Coal"] = {
 						["repeatable"] = false,
 					},
-					["Armored Vaultbot"] = {
+					["Direhorn Runt"] = {
 						["repeatable"] = false,
 					},
 					["Jingling Bell"] = {
@@ -1032,7 +1030,7 @@ RarityDB = {
 					["Daggertooth Frenzy"] = {
 						["repeatable"] = false,
 					},
-					["Bucket of Primordial Sludge"] = {
+					["Ashleaf Spriteling"] = {
 						["repeatable"] = false,
 					},
 					["Uuna's Doll"] = {
@@ -1050,11 +1048,14 @@ RarityDB = {
 					["Nightshade Sproutling"] = {
 						["repeatable"] = false,
 					},
-					["Tinder Pup"] = {
+					["Severed Tentacle"] = {
 						["repeatable"] = false,
 					},
-					["Satyr Charm"] = {
+					["Sky-Bo"] = {
+						["known"] = true,
 						["repeatable"] = false,
+						["enabled"] = false,
+						["found"] = true,
 					},
 					["Living Sandling"] = {
 						["known"] = true,
@@ -1062,10 +1063,10 @@ RarityDB = {
 						["enabled"] = false,
 						["found"] = true,
 					},
-					["Mawsworn Minion"] = {
+					["Satyr Charm"] = {
 						["repeatable"] = false,
 					},
-					["Coral Lashling"] = {
+					["Amethyst Softshell"] = {
 						["repeatable"] = false,
 					},
 					["Tiny Grimoire"] = {
@@ -1074,89 +1075,88 @@ RarityDB = {
 					["Caverndark Nightmare"] = {
 						["repeatable"] = false,
 					},
-					["Bloodstone Tunneler"] = {
-						["repeatable"] = false,
-					},
-					["Parrot Cage (Green Wing Macaw)"] = {
-						["repeatable"] = false,
-					},
-					["Smoldering Treat"] = {
-						["repeatable"] = false,
-					},
-					["Bone Serpent"] = {
-						["repeatable"] = false,
-					},
-					["Twilight Summoning Portal"] = {
-						["repeatable"] = false,
-						["attempts"] = 1,
-					},
-					["Enchanted Talon of Pa'ku"] = {
-						["repeatable"] = false,
-					},
-					["Brinestone Algan"] = {
-						["repeatable"] = false,
-					},
-					["Albatross Feather"] = {
-						["repeatable"] = false,
-					},
-					["Quivering Blob"] = {
+					["Overcomplicated Controller"] = {
 						["attempts"] = 1,
 						["repeatable"] = false,
 					},
-					["Sludge Feeler"] = {
+					["Cursed Dune Watcher"] = {
 						["repeatable"] = false,
 					},
-					["Nightmare Bell"] = {
+					["Servant's Bell"] = {
+						["repeatable"] = false,
+					},
+					["Imperial Silkworm"] = {
+						["repeatable"] = false,
+					},
+					["Clockwork Rocket Bot"] = {
+						["repeatable"] = false,
+					},
+					["Parrot Cage (Hyacinth Macaw)"] = {
+						["repeatable"] = false,
+					},
+					["Ironbound Collar"] = {
+						["repeatable"] = false,
+					},
+					["Seaborne Spore"] = {
+						["repeatable"] = false,
+					},
+					["Elementium Back Plate"] = {
+						["repeatable"] = false,
+					},
+					["Azure Crane Chick"] = {
+						["repeatable"] = false,
+					},
+					["Mark of Flame"] = {
 						["repeatable"] = false,
 					},
 					["Gnashtooth"] = {
 						["repeatable"] = false,
 					},
-					["Azure Cloud Serpent Egg"] = {
+					["Disgusting Oozeling"] = {
 						["repeatable"] = false,
 					},
 					["Thaumaturgical Piglet"] = {
 						["repeatable"] = false,
 					},
-					["Breezy Essence"] = {
+					["Amber Goo Puddle"] = {
 						["repeatable"] = false,
 					},
-					["Albino Chimaeraling"] = {
+					["Mindlost Bloodfrenzy"] = {
 						["repeatable"] = false,
 					},
 					["Cobalt Raven Hatchling"] = {
 						["repeatable"] = false,
 					},
-					["Grasping Manifestation"] = {
+					["Jadefire Spirit"] = {
 						["repeatable"] = false,
 					},
-					["Kor'thik Swarmling"] = {
+					["Fractured Obsidian Claw"] = {
 						["repeatable"] = false,
 					},
-					["Nerubian Relic"] = {
+					["Sandkeep"] = {
 						["repeatable"] = false,
 					},
 					["Ji-Kun Hatchling"] = {
 						["attempts"] = 2,
 						["repeatable"] = false,
 					},
-					["Eye of Extermination"] = {
+					["Frenzied Mawrat"] = {
 						["repeatable"] = false,
 					},
-					["Spawn of Garalon"] = {
+					["Needleback Pup"] = {
 						["repeatable"] = false,
 					},
-					["Trapped Stonefiend"] = {
+					["Zur'aj the Depleted"] = {
 						["repeatable"] = false,
 					},
 					["Gooey Sha-ling"] = {
 						["attempts"] = 1,
 						["repeatable"] = false,
 					},
-					["Glittering Ball of Yarn"] = {
+					["Spirit of the Spring"] = {
 						["repeatable"] = false,
 					},
-					["Pair of Tiny Bat Wings"] = {
+					["Mana-Warped Egg"] = {
 						["repeatable"] = false,
 					},
 					["Hyjal Wisp"] = {
@@ -1165,10 +1165,10 @@ RarityDB = {
 					["Void-Link Frostwolf Collar"] = {
 						["repeatable"] = false,
 					},
-					["Stormforged Rune"] = {
+					["Budding Algan"] = {
 						["repeatable"] = false,
 					},
-					["Feasting Larva"] = {
+					["Essence of Pride"] = {
 						["repeatable"] = false,
 					},
 					["Odd Twilight Egg"] = {
@@ -1178,16 +1178,16 @@ RarityDB = {
 					["Larion Cub"] = {
 						["repeatable"] = false,
 					},
-					["Fossorial Bile Larva"] = {
+					["Korthian Specimen"] = {
 						["repeatable"] = false,
 					},
 					["Foulwing Buzzer"] = {
 						["repeatable"] = false,
 					},
-					["Moon Moon"] = {
+					["Vial of Roiling Emotions"] = {
 						["repeatable"] = false,
 					},
-					["Devoured Wader"] = {
+					["Bronze Proto-Whelp"] = {
 						["repeatable"] = false,
 					},
 					["Cat Carrier (Black Tabby)"] = {
@@ -1196,35 +1196,36 @@ RarityDB = {
 					["Snowsoft Nibbler"] = {
 						["repeatable"] = false,
 					},
-					["Mosscoated Hopper"] = {
+					["Rough-Hewn Remote"] = {
 						["repeatable"] = false,
+						["attempts"] = 1,
 					},
 					["Sunfire Kaliri"] = {
 						["repeatable"] = false,
 					},
 					["Remains of a Blood Beast"] = {
-						["repeatable"] = false,
 						["attempts"] = 2,
-					},
-					["Sparkleshell Sandcrawler"] = {
 						["repeatable"] = false,
 					},
-					["Dark Whelpling"] = {
+					["Darkshore Sentinel"] = {
 						["repeatable"] = false,
 					},
 					["Aldrusian Sproutling"] = {
 						["repeatable"] = false,
 					},
+					["Deviate Hatchling"] = {
+						["repeatable"] = false,
+					},
 					["Sunfur Panda"] = {
 						["repeatable"] = false,
 					},
-					["Silvershell Snapper"] = {
+					["Undulating Blue Sac"] = {
 						["repeatable"] = false,
 					},
-					["Contained Essence of Dread"] = {
+					["Bubbling Pustule"] = {
 						["repeatable"] = false,
 					},
-					["Wicked Lurker"] = {
+					["Blazing Rune"] = {
 						["repeatable"] = false,
 					},
 				},
@@ -3369,7 +3370,7 @@ RarityDB = {
 				"Neltharus", -- [2081]
 				"Halls Of Infusion", -- [2082]
 				"Halls Of Infusion", -- [2083]
-				nil, -- [2084]
+				"The Emerald Dreamway", -- [2084]
 				"Primalist Tomorrow", -- [2085]
 				nil, -- [2086]
 				nil, -- [2087]
@@ -3491,42 +3492,238 @@ RarityDB = {
 						[11986] = 0,
 						[10978] = 5,
 						[10980] = 0,
-						[2862] = 0,
+						[13613] = 0,
 						[10225] = 0,
 						[10227] = 0,
 						[10928] = 4,
 						[4663] = 0,
-						[13372] = 0,
+						[4658] = 0,
 						[13617] = 0,
 						[14135] = 0,
-						[1098] = 0,
+						[8185] = 0,
 						[8573] = 0,
-						[10979] = 7,
-						[10977] = 5,
+						[8183] = 0,
+						[8182] = 0,
 						[6797] = 0,
 						[6798] = 0,
-						[1097] = 0,
+						[8181] = 0,
 						[12763] = 0,
-						[7924] = 0,
-						[7923] = 0,
+						[8179] = 0,
+						[8178] = 0,
 						[5977] = 0,
-						[6990] = 0,
-						[6989] = 0,
-						[3256] = 0,
+						[15169] = 0,
+						[11896] = 0,
+						[13619] = 0,
 						[1391] = 0,
 						[14094] = 0,
-						[13620] = 0,
-						[14128] = 0,
-						[14130] = 0,
+						[14110] = 0,
+						[13618] = 0,
+						[13365] = 0,
 						[13592] = 0,
 						[13594] = 0,
+						[14138] = 0,
+						[14108] = 0,
+						[13600] = 0,
+						[13602] = 0,
+						[5558] = 0,
+						[1394] = 0,
+						[15168] = 0,
+						[15140] = 0,
+						[15142] = 0,
+						[13614] = 0,
+						[13616] = 0,
+						[14128] = 0,
+						[14130] = 0,
+						[15152] = 0,
+						[15154] = 0,
+						[14136] = 0,
 						[13373] = 0,
+						[14395] = 0,
+						[5557] = 0,
+						[13379] = 0,
+						[5559] = 0,
+						[5560] = 0,
+						[15170] = 0,
+						[15172] = 0,
+						[6168] = 0,
+						[5565] = 0,
+						[12118] = 0,
+						[5566] = 0,
+						[5567] = 0,
+						[5568] = 0,
+						[5569] = 0,
+						[5570] = 0,
+						[5571] = 0,
+						[5572] = 0,
+						[10252] = 0,
+						[5574] = 0,
+						[8568] = 0,
+						[5576] = 0,
+						[5577] = 0,
+						[11894] = 3,
+						[13612] = 0,
+						[11893] = 1,
+						[11895] = 0,
+						[4074] = 0,
+						[15147] = 0,
+						[4075] = 0,
+						[15144] = 0,
+						[14455] = 0,
+						[15145] = 0,
+						[8570] = 0,
+						[4662] = 0,
+						[4645] = 0,
+						[9365] = 2,
+						[8620] = 0,
+						[8622] = 0,
+						[8153] = 0,
+						[1088] = 0,
+						[8146] = 0,
+						[8147] = 0,
+						[8148] = 0,
+						[8149] = 0,
+						[8150] = 0,
+						[8151] = 0,
+						[8152] = 0,
+						[8624] = 0,
+						[8626] = 0,
+						[8628] = 0,
+						[8630] = 0,
+						[9279] = 0,
+						[10929] = 2,
+						[10931] = 0,
+						[8638] = 0,
+						[15146] = 0,
+						[11957] = 0,
+						[11959] = 0,
+						[5970] = 0,
+						[5575] = 0,
+						[14127] = 0,
+						[13364] = 0,
+						[8168] = 0,
+						[8169] = 0,
+						[8170] = 0,
+						[8171] = 0,
+						[8172] = 0,
+						[13620] = 0,
+						[3256] = 0,
+						[6989] = 0,
+						[6990] = 0,
+						[12752] = 0,
+						[7923] = 0,
+						[7924] = 0,
+						[8180] = 0,
+						[1097] = 0,
+						[10977] = 5,
+						[10979] = 7,
+						[8184] = 0,
+						[1098] = 0,
+						[8186] = 0,
+						[8187] = 0,
+						[13372] = 0,
+						[10226] = 0,
+						[10228] = 0,
+						[2862] = 0,
+					},
+					["server"] = "Mal'Ganis",
+				},
+				["Player-3678-07DEDDE2"] = {
+					["playerName"] = "Verypoopy",
+					["statistics"] = {
+						[6157] = 0,
+						[6158] = 0,
+						[6161] = 0,
+						[6162] = 0,
+						[6165] = 0,
+						[6166] = 0,
+						[6167] = 0,
+						[14089] = 0,
+						[14091] = 0,
+						[14093] = 0,
+						[13591] = 0,
+						[13593] = 0,
+						[14107] = 0,
+						[14109] = 0,
+						[13601] = 0,
+						[13603] = 0,
+						[4653] = 0,
+						[15141] = 0,
+						[15143] = 0,
+						[13615] = 0,
+						[4657] = 0,
+						[14129] = 0,
+						[13366] = 0,
+						[15153] = 0,
+						[15155] = 0,
+						[14137] = 0,
+						[13374] = 0,
+						[4664] = 0,
+						[14398] = 0,
+						[13382] = 0,
+						[14404] = 0,
+						[15171] = 0,
+						[3236] = 0,
+						[8567] = 0,
+						[8569] = 0,
+						[8571] = 0,
+						[1753] = 0,
+						[4686] = 0,
+						[4687] = 0,
+						[4688] = 0,
+						[1754] = 0,
+						[2864] = 0,
+						[2865] = 0,
+						[14458] = 0,
+						[5971] = 0,
+						[5976] = 0,
+						[2869] = 0,
+						[2870] = 0,
+						[8621] = 0,
+						[8623] = 0,
+						[8625] = 0,
+						[8627] = 0,
+						[8629] = 0,
+						[8631] = 0,
+						[10928] = 0,
+						[10930] = 0,
+						[8637] = 0,
+						[11958] = 0,
+						[2879] = 0,
+						[2883] = 0,
+						[12745] = 0,
+						[11986] = 0,
+						[10978] = 0,
+						[10980] = 0,
+						[10225] = 0,
+						[10227] = 0,
+						[4662] = 0,
+						[13372] = 0,
+						[13619] = 0,
+						[4658] = 0,
+						[6797] = 0,
+						[6798] = 0,
+						[14127] = 0,
+						[11896] = 0,
+						[4645] = 0,
+						[13600] = 0,
+						[5970] = 0,
+						[8182] = 0,
+						[8181] = 0,
+						[6990] = 0,
+						[1391] = 0,
+						[14094] = 0,
+						[8179] = 0,
+						[8178] = 0,
+						[13612] = 0,
+						[13592] = 0,
+						[13594] = 0,
+						[13620] = 0,
 						[14108] = 0,
 						[14110] = 0,
 						[13602] = 0,
 						[13379] = 0,
 						[1394] = 0,
-						[5560] = 0,
+						[8573] = 0,
 						[15140] = 0,
 						[15142] = 0,
 						[13614] = 0,
@@ -3541,11 +3738,11 @@ RarityDB = {
 						[5557] = 0,
 						[5558] = 0,
 						[5559] = 0,
-						[15168] = 0,
+						[5560] = 0,
 						[15170] = 0,
 						[15172] = 0,
-						[13364] = 0,
-						[14127] = 0,
+						[15145] = 0,
+						[15169] = 0,
 						[5565] = 0,
 						[5566] = 0,
 						[5567] = 0,
@@ -3554,28 +3751,28 @@ RarityDB = {
 						[5570] = 0,
 						[5571] = 0,
 						[5572] = 0,
-						[5575] = 0,
+						[15168] = 0,
 						[5574] = 0,
-						[8568] = 0,
+						[5575] = 0,
 						[5576] = 0,
 						[5577] = 0,
-						[5970] = 0,
-						[13612] = 0,
-						[11893] = 1,
+						[12763] = 0,
+						[6168] = 0,
+						[11893] = 0,
 						[11895] = 0,
 						[4074] = 0,
-						[15147] = 0,
+						[3258] = 0,
 						[4075] = 0,
-						[15146] = 0,
+						[3256] = 0,
 						[14455] = 0,
-						[15145] = 0,
-						[8570] = 0,
-						[4662] = 0,
-						[9279] = 0,
-						[9365] = 2,
+						[13613] = 0,
+						[11894] = 0,
+						[15146] = 0,
+						[8568] = 0,
+						[9365] = 0,
+						[15144] = 0,
 						[8151] = 0,
 						[8152] = 0,
-						[8624] = 0,
 						[1088] = 0,
 						[8146] = 0,
 						[8147] = 0,
@@ -3584,47 +3781,47 @@ RarityDB = {
 						[8150] = 0,
 						[8620] = 0,
 						[8622] = 0,
-						[8153] = 0,
+						[8624] = 0,
 						[8626] = 0,
 						[8628] = 0,
 						[8630] = 0,
-						[4645] = 0,
-						[10929] = 2,
+						[13373] = 0,
+						[10929] = 0,
 						[10931] = 0,
 						[8638] = 0,
-						[15144] = 0,
+						[15147] = 0,
 						[11957] = 0,
 						[11959] = 0,
-						[11894] = 3,
 						[10252] = 0,
+						[13617] = 0,
 						[12118] = 0,
-						[6168] = 0,
+						[8570] = 0,
 						[8168] = 0,
 						[8169] = 0,
 						[8170] = 0,
 						[8171] = 0,
 						[8172] = 0,
-						[13600] = 0,
-						[13619] = 0,
-						[11896] = 0,
-						[15169] = 0,
+						[6989] = 0,
+						[14130] = 0,
+						[14128] = 0,
+						[9279] = 0,
 						[12752] = 0,
-						[8178] = 0,
-						[8179] = 0,
+						[7923] = 0,
+						[7924] = 0,
 						[8180] = 0,
-						[8181] = 0,
-						[8182] = 0,
-						[8183] = 0,
-						[8184] = 0,
-						[8185] = 0,
-						[8186] = 0,
-						[8187] = 0,
-						[4658] = 0,
+						[1097] = 0,
+						[10977] = 0,
+						[10979] = 0,
+						[5977] = 0,
+						[1098] = 0,
+						[2862] = 0,
+						[13364] = 0,
+						[4663] = 0,
 						[10226] = 0,
 						[10228] = 0,
-						[13613] = 0,
+						[14135] = 0,
 					},
-					["server"] = "Mal'Ganis",
+					["server"] = "Thrall",
 				},
 				["Player-3678-07DF6B06"] = {
 					["playerName"] = "Superpoopy",
@@ -3695,34 +3892,34 @@ RarityDB = {
 						[10980] = 0,
 						[10225] = 0,
 						[10227] = 0,
-						[4662] = 1,
+						[13613] = 0,
 						[2862] = 1,
 						[13372] = 0,
-						[4658] = 0,
+						[13364] = 0,
 						[6797] = 0,
 						[6798] = 0,
-						[4657] = 0,
-						[13617] = 0,
+						[14135] = 0,
+						[13374] = 0,
 						[4645] = 1,
-						[5977] = 0,
+						[15145] = 0,
 						[6989] = 0,
-						[10977] = 0,
-						[1097] = 0,
+						[8182] = 0,
+						[8181] = 0,
 						[1754] = 0,
 						[1391] = 0,
 						[14094] = 0,
-						[7924] = 0,
-						[7923] = 0,
+						[8179] = 0,
+						[8178] = 1,
 						[3258] = 0,
 						[13592] = 0,
 						[13594] = 0,
-						[9279] = 0,
-						[14108] = 0,
 						[13600] = 0,
+						[14108] = 0,
+						[14110] = 0,
 						[13602] = 0,
 						[13365] = 0,
 						[1394] = 0,
-						[13379] = 0,
+						[13373] = 0,
 						[15140] = 0,
 						[15142] = 0,
 						[13614] = 0,
@@ -3732,7 +3929,7 @@ RarityDB = {
 						[15152] = 0,
 						[15154] = 0,
 						[14136] = 0,
-						[13373] = 0,
+						[14138] = 0,
 						[14395] = 0,
 						[5557] = 1,
 						[5558] = 0,
@@ -3740,7 +3937,7 @@ RarityDB = {
 						[5560] = 0,
 						[15170] = 0,
 						[15172] = 0,
-						[15168] = 0,
+						[15169] = 0,
 						[1753] = 0,
 						[12118] = 0,
 						[5566] = 0,
@@ -3750,10 +3947,10 @@ RarityDB = {
 						[5570] = 0,
 						[5571] = 0,
 						[5572] = 1,
-						[8570] = 0,
+						[5576] = 0,
 						[5574] = 0,
 						[5575] = 0,
-						[5576] = 0,
+						[8570] = 0,
 						[5577] = 0,
 						[5565] = 1,
 						[12763] = 0,
@@ -3762,24 +3959,24 @@ RarityDB = {
 						[4074] = 0,
 						[14089] = 0,
 						[4075] = 0,
-						[14128] = 0,
+						[13619] = 0,
 						[14455] = 0,
-						[10252] = 0,
-						[6990] = 0,
-						[11894] = 0,
+						[3256] = 0,
+						[13612] = 0,
+						[15146] = 0,
 						[15147] = 0,
 						[9365] = 0,
 						[8568] = 0,
-						[15144] = 0,
-						[8152] = 0,
+						[8151] = 0,
+						[8622] = 0,
 						[1088] = 1,
 						[8146] = 0,
 						[8147] = 0,
 						[8148] = 1,
 						[8149] = 0,
 						[8150] = 0,
-						[8151] = 0,
-						[8622] = 0,
+						[8620] = 0,
+						[8152] = 0,
 						[8624] = 0,
 						[8626] = 0,
 						[8628] = 0,
@@ -3788,37 +3985,37 @@ RarityDB = {
 						[10929] = 0,
 						[10931] = 0,
 						[8638] = 0,
-						[8620] = 0,
+						[15144] = 0,
 						[11957] = 0,
 						[11959] = 0,
-						[15146] = 0,
-						[13612] = 0,
-						[3256] = 0,
-						[13619] = 0,
+						[11894] = 0,
+						[6990] = 0,
+						[10252] = 0,
+						[14128] = 0,
 						[8168] = 2,
 						[8169] = 0,
 						[8170] = 0,
 						[8171] = 0,
 						[8172] = 0,
-						[15169] = 0,
-						[14138] = 0,
+						[15168] = 0,
+						[13379] = 0,
 						[13620] = 0,
-						[14110] = 0,
+						[9279] = 0,
 						[12752] = 0,
-						[8178] = 1,
-						[8179] = 0,
+						[7923] = 0,
+						[7924] = 0,
 						[8180] = 0,
-						[8181] = 0,
-						[8182] = 0,
+						[1097] = 0,
+						[10977] = 0,
 						[10979] = 0,
-						[15145] = 0,
+						[5977] = 0,
 						[1098] = 1,
-						[13374] = 0,
-						[14135] = 0,
-						[13364] = 0,
+						[13617] = 0,
+						[4657] = 0,
+						[4658] = 0,
 						[10226] = 0,
 						[10228] = 0,
-						[13613] = 0,
+						[4662] = 1,
 					},
 					["server"] = "Thrall",
 				},

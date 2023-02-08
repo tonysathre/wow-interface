@@ -1,25 +1,7 @@
-VER 3 0000000000000003 "Buy Flask Mats" "135966"
-/run BuyMerchantItem(17,21)
-/run BuyMerchantItem(14,30)
-/run BuyMerchantItem(16,30)
-END
 VER 3 0000000000000006 "Dismiss Demon" "615103"
 /script PetDismiss()
 END
-VER 3 0000000000000005 "MI opener" "INV_MISC_QUESTIONMARK"
-#shopwtooltip
-/castsequence reset=60 Mirror Image,Scorch,Fire Blast,Pyroblast,Fire Blast,Pyroblast,Fire Blast,Pyroblast,Phoenix's Flames,Pyroblast,Phoenix's Flames,Pyroblast,Phoenix's Flames,Pyroblast,Fire Blast,Pyroblast
-END
-VER 3 0000000000000004 "Opener" "INV_SWORD_04"
-#shopwtooltip
-/castsequence reset=60 Rune of Power,Scorch,Fire Blast,Pyroblast,Fire Blast,Pyroblast,Fire Blast,Pyroblast,Phoenix's Flames,Pyroblast,Phoenix's Flames,Pyroblast,Phoenix's Flames,Pyroblast,Fire Blast,Pyroblast
-END
-VER 3 0000000000000001 "Prospecting" "Spell_Holy_PrayerOfFortitude"
-/use Prospecting
-/script SetCVar("autoLootDefault", "1")
-/use Ghost Iron Ore
-END
-VER 3 0000000000000002 "Rape" "SPELL_FIRE_INCINERATE"
-/cast Rune of Power
-/cast Combustion
+VER 3 0000000000000007 "SoulKeeper" "134400"
+#showtooltip
+/cast [@cursor] Summon Soulkeeper
 END

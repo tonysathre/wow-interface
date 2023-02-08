@@ -21,7 +21,7 @@ Chinchilla2DB = {
 		},
 		["QuestTracker"] = {
 		},
-		["Expander"] = {
+		["Zoom"] = {
 		},
 		["RangeCircle"] = {
 		},
@@ -49,10 +49,11 @@ Chinchilla2DB = {
 				},
 			},
 		},
-		["Zoom"] = {
+		["Expander"] = {
 		},
 	},
 	["profileKeys"] = {
+		["Verypoopy - Thrall"] = "Default",
 		["Sodomologist - Mal'Ganis"] = "Default",
 	},
 	["profiles"] = {

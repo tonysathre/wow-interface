@@ -26,10 +26,18 @@ VER 3 0100000000000009 "Demonic Gateway" "607512"
 /cast Soulburn
 /use Demonic Gateway
 END
+VER 3 0100000000000010 "Demonic Gateway" "607512"
+#showtooltip
+/cast [@cursor] Demonic Gateway
+END
 VER 3 0100000000000006 "Drain Life" "136169"
 #showtooltip Drain Life
 /cast Soulburn
 /cast Drain Life
+END
+VER 3 0100000000000011 "Havoc" "460695"
+#showtooltip
+/cast [@cursor] Havoc
 END
 VER 3 0100000000000007 "Healthstone" "538745"
 #showtooltip Healthstone
@@ -37,12 +45,38 @@ VER 3 0100000000000007 "Healthstone" "538745"
 /cast Soulburn
 /use Healthstone
 END
+VER 3 010000000000000F "Immolate" "135802"
+#showtooltip
+/cast [@focus,harm][@mouseover,harm,nodead][] Immolate
+END
+VER 3 010000000000000E "Interrupt" "134400"
+#showtooltip
+/cast [pet:imp] Singe Magic; [pet:felhunter] [@mouseover,harm][@focus,harm][] Spell Lock; [pet:succubus] Seduction; [pet:voidwalker] Suffering; [pet:felguard] Axe Toss
+END
 VER 3 0100000000000001 "Phantom-Vile" "134400"
 #showtooltip
 /use [known:Phantom Singularity] Phantom Singularity; [known:Vile Taint] Vile Taint
+END
+VER 3 010000000000000C "Rain of Fire" "135804"
+#showtooltip
+/cast [@cursor] Rain of Fire
 END
 VER 3 0100000000000002 "Soul Rot" "3636850"
 #showtooltip
 /castsequence [known:Soul Rot] Soul Rot;
 /use Drain Life;
+END
+VER 3 010000000000000D "Summon Infernal" "136219"
+#showtooltip Summon Infernal
+/use 13
+/use 14
+/cast [@cursor] Summon Infernal
+END
+VER 3 0100000000000012 "Trinket1" "134400"
+#showtooltip
+/use 13
+END
+VER 3 0100000000000013 "Trinket2" "134400"
+#showtooltip
+/use 14
 END

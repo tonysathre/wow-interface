@@ -1,12 +1,13 @@
 
 OmniCCDB = {
-	["profileKeys"] = {
-		["Superpoopy - Thrall"] = "Default",
-		["Sodomologist - Mal'Ganis"] = "Default",
-	},
 	["global"] = {
 		["dbVersion"] = 6,
-		["addonVersion"] = "10.0.2",
+		["addonVersion"] = "10.0.4",
+	},
+	["profileKeys"] = {
+		["Sodomologist - Mal'Ganis"] = "Default",
+		["Superpoopy - Thrall"] = "Default",
+		["Verypoopy - Thrall"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -75,104 +76,98 @@ OmniCCDB = {
 			["themes"] = {
 				["Debuffs"] = {
 					["textStyles"] = {
-						["minutes"] = {
+						["soon"] = {
+							["scale"] = 2,
 						},
 						["seconds"] = {
 							["scale"] = 2,
 						},
-						["soon"] = {
-							["scale"] = 2,
+						["minutes"] = {
 						},
 					},
-					["fontFace"] = "Interface\\Addons\\OmniCD\\Media\\Fonts\\PTSansNarrow-Bold.ttf",
+					["fontSize"] = 12,
 					["minDuration"] = 0,
 					["tenthsDuration"] = 5,
 					["effect"] = "none",
 					["name"] = "Debuffs",
-					["fontSize"] = 12,
 				},
 				["Default"] = {
 					["textStyles"] = {
-						["seconds"] = {
+						["soon"] = {
 							["scale"] = 2,
 						},
 						["minutes"] = {
 						},
-						["soon"] = {
+						["seconds"] = {
 							["scale"] = 2,
 						},
 					},
 					["fontSize"] = 12,
 					["effect"] = "none",
-					["fontFace"] = "Interface\\Addons\\OmniCD\\Media\\Fonts\\PTSansNarrow-Bold.ttf",
 					["minDuration"] = 0,
 				},
 				["ActionBars"] = {
 					["textStyles"] = {
-						["minutes"] = {
+						["soon"] = {
+							["scale"] = 2,
 						},
 						["seconds"] = {
 							["scale"] = 2,
 						},
-						["soon"] = {
-							["scale"] = 2,
+						["minutes"] = {
 						},
 					},
 					["fontSize"] = 12,
 					["effect"] = "none",
 					["name"] = "ActionBars",
-					["fontFace"] = "Interface\\Addons\\OmniCD\\Media\\Fonts\\PTSansNarrow-Bold.ttf",
 					["minDuration"] = 0,
 				},
 				["Plater Nameplates Theme"] = {
 					["textStyles"] = {
-						["soon"] = {
+						["seconds"] = {
 						},
 						["minutes"] = {
 						},
-						["seconds"] = {
+						["soon"] = {
 						},
 					},
 					["fontSize"] = 24,
 					["effect"] = "none",
 					["minEffectDuration"] = 0,
-					["fontFace"] = "Interface\\Addons\\OmniCD\\Media\\Fonts\\PTSansNarrow-Bold.ttf",
 					["minDuration"] = 0,
 				},
 				["WeakAuras"] = {
 					["textStyles"] = {
-						["minutes"] = {
+						["soon"] = {
+							["scale"] = 2,
 						},
 						["seconds"] = {
 							["scale"] = 2,
 						},
-						["soon"] = {
-							["scale"] = 2,
+						["minutes"] = {
 						},
 					},
 					["fontSize"] = 10,
 					["minDuration"] = 0,
 					["tenthsDuration"] = 5,
 					["name"] = "WeakAuras",
-					["fontFace"] = "Interface\\Addons\\OmniCD\\Media\\Fonts\\PTSansNarrow-Bold.ttf",
 				},
 				["Auras"] = {
 					["textStyles"] = {
-						["minutes"] = {
+						["soon"] = {
+							["scale"] = 2,
 						},
 						["seconds"] = {
 							["scale"] = 2,
 						},
-						["soon"] = {
-							["scale"] = 2,
+						["minutes"] = {
 						},
 					},
-					["fontFace"] = "Interface\\Addons\\OmniCD\\Media\\Fonts\\PTSansNarrow-Bold.ttf",
+					["fontSize"] = 12,
 					["minDuration"] = 0,
 					["tenthsDuration"] = 5,
 					["effect"] = "none",
 					["name"] = "Auras",
-					["fontSize"] = 12,
 				},
 			},
 		},

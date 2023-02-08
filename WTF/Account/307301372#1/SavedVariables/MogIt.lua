@@ -1,11 +1,12 @@
 
 MogItDB = {
+	["profileKeys"] = {
+		["Sodomologist - Mal'Ganis"] = "Default",
+		["Superpoopy - Thrall"] = "Default",
+		["Verypoopy - Thrall"] = "Default",
+	},
 	["global"] = {
 		["version"] = "v3.9.12",
-	},
-	["profileKeys"] = {
-		["Superpoopy - Thrall"] = "Default",
-		["Sodomologist - Mal'Ganis"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -39,17 +40,20 @@ MogItDB = {
 	},
 }
 MogItWishlist = {
-	["profileKeys"] = {
-		["Superpoopy - Thrall"] = "Superpoopy - Thrall",
-		["Sodomologist - Mal'Ganis"] = "Sodomologist - Mal'Ganis",
-	},
 	["global"] = {
-		["version"] = 100002,
+		["version"] = 100005,
+	},
+	["profileKeys"] = {
+		["Sodomologist - Mal'Ganis"] = "Sodomologist - Mal'Ganis",
+		["Superpoopy - Thrall"] = "Superpoopy - Thrall",
+		["Verypoopy - Thrall"] = "Verypoopy - Thrall",
 	},
 	["profiles"] = {
+		["Sodomologist - Mal'Ganis"] = {
+		},
 		["Superpoopy - Thrall"] = {
 		},
-		["Sodomologist - Mal'Ganis"] = {
+		["Verypoopy - Thrall"] = {
 		},
 	},
 }

@@ -1,16 +1,19 @@
 
 NameplateSCTDB = {
 	["profileKeys"] = {
+		["Verypoopy - Thrall"] = "Default",
 		["Sodomologist - Mal'Ganis"] = "Default",
 	},
 	["global"] = {
 		["yOffset"] = -150,
+		["font"] = "PT Sans Narrow Bold",
 		["animations"] = {
-			["autoattack"] = "verticalDown",
+			["autoattackcrit"] = "fountain",
 			["ability"] = "verticalDown",
-			["crit"] = "rainfall",
-			["autoattackcrit"] = "rainfall",
+			["crit"] = "fountain",
+			["autoattack"] = "verticalDown",
 		},
 		["shouldDisplayOverkill"] = true,
+		["textShadow"] = true,
 	},
 }

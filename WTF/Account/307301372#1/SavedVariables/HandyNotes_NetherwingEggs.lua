@@ -1,8 +1,9 @@
 
 HandyNotes_NetherwingEggsDB = {
 	["profileKeys"] = {
-		["Superpoopy - Thrall"] = "Default",
 		["Sodomologist - Mal'Ganis"] = "Default",
+		["Superpoopy - Thrall"] = "Default",
+		["Verypoopy - Thrall"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

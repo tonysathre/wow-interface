@@ -1,6 +1,7 @@
 
 OmniCDDB = {
 	["profileKeys"] = {
+		["Verypoopy - Thrall"] = "Default",
 		["Sodomologist - Mal'Ganis"] = "[IMPORT-1]Quazii OmniCD",
 	},
 	["namespaces"] = {
@@ -9,10 +10,11 @@ OmniCDDB = {
 		["BattleRes"] = {
 			["profiles"] = {
 				["[IMPORT-1]Quazii OmniCD"] = {
+					["iconTexture"] = 136210,
 					["manualPos"] = {
 						["OmniCDBrez"] = {
-							["y"] = 444.7695454535278,
-							["x"] = 483.2297948973064,
+							["y"] = 368.6811449241213,
+							["x"] = 446.2521198620379,
 						},
 					},
 				},
@@ -25,6 +27,12 @@ OmniCDDB = {
 	["profiles"] = {
 		["Default"] = {
 			["General"] = {
+				["textures"] = {
+					["statusBar"] = {
+						["BG"] = "Clean",
+						["bar"] = "Clean",
+					},
+				},
 				["fonts"] = {
 					["statusBar"] = {
 						["font"] = "Myriad Condensed Web",
@@ -36,21 +44,9 @@ OmniCDDB = {
 						["font"] = "Myriad Condensed Web",
 					},
 				},
-				["textures"] = {
-					["statusBar"] = {
-						["BG"] = "Clean",
-						["bar"] = "Clean",
-					},
-				},
 			},
 			["Party"] = {
 				["party"] = {
-					["spells"] = {
-						["*"] = false,
-						["191427"] = false,
-						["33891"] = false,
-						["205604"] = false,
-					},
 					["extraBars"] = {
 						["raidBar0"] = {
 							["manualPos"] = {
@@ -60,6 +56,12 @@ OmniCDDB = {
 								},
 							},
 						},
+					},
+					["spells"] = {
+						["205604"] = false,
+						["33891"] = false,
+						["191427"] = false,
+						["*"] = false,
 					},
 					["icons"] = {
 						["scale"] = 0.75,
@@ -87,8 +89,8 @@ OmniCDDB = {
 							["growUpward"] = true,
 							["manualPos"] = {
 								["raidBar0"] = {
-									["y"] = 370.1340440407512,
-									["x"] = 400.0010351327364,
+									["y"] = 584.1785918537062,
+									["x"] = 446.9339771368323,
 								},
 							},
 						},
@@ -110,8 +112,8 @@ OmniCDDB = {
 								["consumable"] = false,
 								["offensive"] = false,
 								["raidDefensive"] = false,
-								["immunity"] = false,
 								["raidMovement"] = false,
+								["immunity"] = false,
 							},
 							["manualPos"] = {
 								["raidBar1"] = {
@@ -125,13 +127,13 @@ OmniCDDB = {
 						},
 					},
 					["manualPos"] = {
-						["raidCDBar"] = {
-							["y"] = 439.7867479825,
-							["x"] = 1097.280053598879,
-						},
 						["interruptBar"] = {
 							["y"] = 473.3865909814849,
 							["x"] = 1111.147240788923,
+						},
+						["raidCDBar"] = {
+							["y"] = 439.7867479825,
+							["x"] = 1097.280053598879,
 						},
 					},
 					["spells"] = {
@@ -159,7 +161,7 @@ OmniCDDB = {
 						["319952"] = true,
 						["210918"] = false,
 						["336135"] = false,
-						["205636"] = true,
+						["121471"] = true,
 						["102560"] = true,
 						["204293"] = true,
 						["107574"] = true,
@@ -187,9 +189,9 @@ OmniCDDB = {
 						["152279"] = true,
 						["123904"] = true,
 						["122470"] = false,
-						["12042"] = true,
-						["102342"] = false,
+						["6789"] = false,
 						["114051"] = true,
+						["106951"] = true,
 						["64044"] = false,
 						["5246"] = false,
 						["49206"] = true,
@@ -203,11 +205,11 @@ OmniCDDB = {
 						["108271"] = false,
 						["30884"] = false,
 						["42650"] = true,
-						["6789"] = false,
+						["102342"] = false,
 						["113858"] = true,
 						["193530"] = true,
 						["871"] = false,
-						["109248"] = true,
+						["316958"] = true,
 						["114018"] = true,
 						["266779"] = true,
 						["322118"] = true,
@@ -219,19 +221,19 @@ OmniCDDB = {
 						["5277"] = false,
 						["1856"] = false,
 						["319454"] = true,
-						["106951"] = true,
+						["288613"] = true,
 						["323764"] = true,
 						["77761"] = true,
 						["116844"] = true,
 						["114050"] = true,
-						["192249"] = true,
-						["191634"] = true,
 						["33206"] = false,
+						["191634"] = true,
+						["192249"] = true,
 						["265187"] = true,
-						["121471"] = true,
+						["12042"] = true,
+						["205636"] = true,
 						["13750"] = true,
-						["288613"] = true,
-						["316958"] = true,
+						["109248"] = true,
 					},
 					["icons"] = {
 						["counterScale"] = 1,
