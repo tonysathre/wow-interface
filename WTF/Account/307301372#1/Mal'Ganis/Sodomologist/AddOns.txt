@@ -11,7 +11,7 @@ WeakAurasArchive: enabled
 AdiBags_Config: enabled
 AdiBags: enabled
 Plater: enabled
-OmniCC: enabled
+OmniCC: disabled
 OmniCC_Config: enabled
 Ellipsis_Options: disabled
 Ellipsis: disabled
@@ -25,8 +25,8 @@ Scrap: enabled
 Scrap_Merchant: enabled
 Scrap_Config: enabled
 DBM-Core: enabled
-ShadowedUnitFrames: enabled
-ShadowedUF_Options: enabled
+ShadowedUnitFrames: disabled
+ShadowedUF_Options: disabled
 Quartz: disabled
 RaiderIO_DB_TW_R: disabled
 RaiderIO_DB_TW_M: disabled
@@ -39,7 +39,7 @@ RaiderIO_DB_EU_M: disabled
 RaiderIO_DB_EU_F: disabled
 HandyNotes_LegionRaresTreasures: disabled
 HandyNotes_Draenor: disabled
-Bartender4: enabled
+Bartender4: disabled
 NameplateSCT: enabled
 ElvUI_VisualAuraTimers: disabled
 ElvUI_ExtraActionBars: disabled
@@ -52,11 +52,11 @@ ElvUI_QuestXP: disabled
 ElvUI_CustomTags: disabled
 ElvUI_UnitFramePlugin: disabled
 kExtraBossFrames: disabled
-ElvUI_Options: disabled
-DejaCharacterStats: enabled
+ElvUI_Options: enabled
+DejaCharacterStats: disabled
 ElvUI_SLE: disabled
-ElvUI_Libraries: disabled
-ElvUI: disabled
+ElvUI_Libraries: enabled
+ElvUI: enabled
 Def's Camera Zoom: disabled
 GottaGoFaster: disabled
 GottaGoFasterHistory: disabled
@@ -92,3 +92,16 @@ BigWigs_Voice: enabled
 BigWigs_DragonIsles: enabled
 LittleWigs: enabled
 BigWigs: disabled
+Leatrix_Plus: enabled
+Atlas_DungeonLocs: enabled
+ElvUI_WindTools: enabled
+ElvUI_ExtraDataTexts: disabled
+ElvUI_SecondsToBuff: disabled
+ElvUI_BuffHighlight: disabled
+ElvUI_ToxiUI: enabled
+MBB: disabled
+QuestCompletist: disabled
+Postal: disabled
+ItemRack: enabled
+SpeedyAutoLoot: disabled
+SimpleItemLevel: disabled

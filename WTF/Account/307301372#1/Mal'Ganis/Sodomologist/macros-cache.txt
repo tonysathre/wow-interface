@@ -21,14 +21,14 @@ VER 3 0100000000000008 "Darkglare" "1416161"
 #showtooltip Summon Darkglare
 /cast Summon Darkglare
 END
+VER 3 0100000000000010 "Demonic Gateway" "607512"
+#showtooltip
+/cast [@cursor] Demonic Gateway
+END
 VER 3 0100000000000009 "Demonic Gateway" "607512"
 #showtooltip Demonic Gateway
 /cast Soulburn
 /use Demonic Gateway
-END
-VER 3 0100000000000010 "Demonic Gateway" "607512"
-#showtooltip
-/cast [@cursor] Demonic Gateway
 END
 VER 3 0100000000000006 "Drain Life" "136169"
 #showtooltip Drain Life
@@ -68,9 +68,8 @@ VER 3 0100000000000002 "Soul Rot" "3636850"
 END
 VER 3 010000000000000D "Summon Infernal" "136219"
 #showtooltip Summon Infernal
-/use 13
-/use 14
 /cast [@cursor] Summon Infernal
+/use 13i
 END
 VER 3 0100000000000012 "Trinket1" "134400"
 #showtooltip

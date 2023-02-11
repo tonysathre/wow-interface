@@ -9,15 +9,15 @@ GTFOData = {
 		true, -- [4]
 	},
 	["DataCode"] = "4",
+	["SoundChannel"] = "Master",
+	["Volume"] = 1,
+	["IgnoreOptions"] = {
+		["EyeOfCorruption2"] = true,
+	},
 	["SoundOverrides"] = {
 		"", -- [1]
 		"", -- [2]
 		"", -- [3]
 		"", -- [4]
 	},
-	["Volume"] = 1,
-	["IgnoreOptions"] = {
-		["EyeOfCorruption2"] = true,
-	},
-	["SoundChannel"] = "Master",
 }

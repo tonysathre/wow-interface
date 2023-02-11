@@ -1,13 +1,13 @@
 
 OmniCCDB = {
-	["global"] = {
-		["dbVersion"] = 6,
-		["addonVersion"] = "10.0.4",
-	},
 	["profileKeys"] = {
 		["Sodomologist - Mal'Ganis"] = "Default",
 		["Superpoopy - Thrall"] = "Default",
 		["Verypoopy - Thrall"] = "Default",
+	},
+	["global"] = {
+		["dbVersion"] = 6,
+		["addonVersion"] = "10.0.4",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -76,10 +76,10 @@ OmniCCDB = {
 			["themes"] = {
 				["Debuffs"] = {
 					["textStyles"] = {
-						["soon"] = {
+						["seconds"] = {
 							["scale"] = 2,
 						},
-						["seconds"] = {
+						["soon"] = {
 							["scale"] = 2,
 						},
 						["minutes"] = {
@@ -93,10 +93,10 @@ OmniCCDB = {
 				},
 				["Default"] = {
 					["textStyles"] = {
+						["minutes"] = {
+						},
 						["soon"] = {
 							["scale"] = 2,
-						},
-						["minutes"] = {
 						},
 						["seconds"] = {
 							["scale"] = 2,
@@ -108,10 +108,10 @@ OmniCCDB = {
 				},
 				["ActionBars"] = {
 					["textStyles"] = {
-						["soon"] = {
+						["seconds"] = {
 							["scale"] = 2,
 						},
-						["seconds"] = {
+						["soon"] = {
 							["scale"] = 2,
 						},
 						["minutes"] = {
@@ -124,9 +124,9 @@ OmniCCDB = {
 				},
 				["Plater Nameplates Theme"] = {
 					["textStyles"] = {
-						["seconds"] = {
-						},
 						["minutes"] = {
+						},
+						["seconds"] = {
 						},
 						["soon"] = {
 						},
@@ -138,10 +138,10 @@ OmniCCDB = {
 				},
 				["WeakAuras"] = {
 					["textStyles"] = {
-						["soon"] = {
+						["seconds"] = {
 							["scale"] = 2,
 						},
-						["seconds"] = {
+						["soon"] = {
 							["scale"] = 2,
 						},
 						["minutes"] = {
@@ -154,10 +154,10 @@ OmniCCDB = {
 				},
 				["Auras"] = {
 					["textStyles"] = {
-						["soon"] = {
+						["seconds"] = {
 							["scale"] = 2,
 						},
-						["seconds"] = {
+						["soon"] = {
 							["scale"] = 2,
 						},
 						["minutes"] = {

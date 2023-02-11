@@ -1,4 +1,11 @@
 Version: 1
+Frame: PlayerPowerBarAlt
+FrameLevel: 2
+Anchor: CENTER
+X: 260
+Y: -90
+W: 10
+H: 10
 Frame: ItemRefTooltip
 FrameLevel: 1
 Anchor: CENTER
@@ -6,6 +13,13 @@ X: -70
 Y: 34
 W: 128
 H: 64
+Frame: ColorPickerFrame
+FrameLevel: 124
+Anchor: CENTER
+X: 0
+Y: 0
+W: 365
+H: 240
 Frame: AllTheThings-Window-Prime
 FrameLevel: 1
 Anchor: CENTER
@@ -55,10 +69,3 @@ X: 0
 Y: 0
 W: 300
 H: 300
-Frame: WeakAurasOptions
-FrameLevel: 1
-Anchor: LEFT
-X: 81
-Y: 50
-W: 829
-H: 665

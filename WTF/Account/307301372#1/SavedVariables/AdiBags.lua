@@ -41,37 +41,31 @@ AdiBagsDB = {
 		},
 		["AdiBags_TooltipInfo"] = {
 		},
+		["Dragonflight"] = {
+		},
+		["MoneyFrame"] = {
+		},
+		["ItemSets"] = {
+		},
+		["CurrencyFrame"] = {
+			["profiles"] = {
+				["Default"] = {
+					["shown"] = {
+						["Honor"] = false,
+					},
+				},
+			},
+		},
+		["DataSource"] = {
+		},
+		["Junk"] = {
+		},
 		["Equipment"] = {
 			["profiles"] = {
 				["Default"] = {
 					["armorTypes"] = true,
 				},
 			},
-		},
-		["MoneyFrame"] = {
-		},
-		["DataSource"] = {
-		},
-		["CurrencyFrame"] = {
-			["profiles"] = {
-				["Default"] = {
-					["shown"] = {
-						["Storm Sigil"] = true,
-						["Darkmoon Prize Ticket"] = true,
-						["Honor"] = false,
-						["Dragon Isles Supplies"] = true,
-						["Valor"] = true,
-						["Elemental Overflow"] = true,
-						["Timewarped Badge"] = true,
-					},
-				},
-			},
-		},
-		["ItemSets"] = {
-		},
-		["Junk"] = {
-		},
-		["Dragonflight"] = {
 		},
 	},
 	["profileKeys"] = {
@@ -84,10 +78,6 @@ AdiBagsDB = {
 			["virtualStacks"] = {
 				["stackable"] = true,
 			},
-			["columnWidth"] = {
-				["Backpack"] = 12,
-				["Bank"] = 12,
-			},
 			["maxHeight"] = 0.7,
 			["positions"] = {
 				["anchor"] = {
@@ -95,9 +85,102 @@ AdiBagsDB = {
 					["yOffset"] = 114.0000762939453,
 				},
 				["Backpack"] = {
-					["xOffset"] = -393.1778564453125,
+					["xOffset"] = -66.1766357421875,
 					["point"] = "TOPRIGHT",
-					["yOffset"] = -104.354248046875,
+					["yOffset"] = -179.3528442382813,
+				},
+			},
+			["modules"] = {
+				["Masque"] = false,
+			},
+			["compactLayout"] = true,
+			["columnWidth"] = {
+				["Bank"] = 12,
+				["Backpack"] = 12,
+			},
+			["theme"] = {
+				["currentTheme"] = "Sodomologist",
+				["themes"] = {
+					["Sodomologist"] = {
+						["reagentBank"] = {
+							["sectionFont"] = {
+								["name"] = "Friz Quadrata TT",
+								["r"] = 1,
+								["b"] = 0,
+								["g"] = 0.8196079134941101,
+								["size"] = 12,
+							},
+							["bagFont"] = {
+								["name"] = "Friz Quadrata TT",
+								["r"] = 1,
+								["b"] = 1,
+								["g"] = 1,
+								["size"] = 16,
+							},
+							["borderWidth"] = 16,
+							["color"] = {
+								0, -- [1]
+								0, -- [2]
+								0, -- [3]
+								1, -- [4]
+							},
+							["background"] = "Blizzard Dialog Background",
+							["border"] = "Blizzard Tooltip",
+							["insets"] = 3,
+						},
+						["backpack"] = {
+							["sectionFont"] = {
+								["name"] = "Friz Quadrata TT",
+								["r"] = 1,
+								["b"] = 0,
+								["g"] = 0.8196079134941101,
+								["size"] = 12,
+							},
+							["bagFont"] = {
+								["name"] = "Friz Quadrata TT",
+								["r"] = 1,
+								["b"] = 1,
+								["g"] = 1,
+								["size"] = 16,
+							},
+							["borderWidth"] = 16,
+							["color"] = {
+								0, -- [1]
+								0, -- [2]
+								0, -- [3]
+								1, -- [4]
+							},
+							["background"] = "Blizzard Dialog Background",
+							["border"] = "Blizzard Tooltip",
+							["insets"] = 3,
+						},
+						["bank"] = {
+							["sectionFont"] = {
+								["name"] = "Friz Quadrata TT",
+								["r"] = 1,
+								["b"] = 0,
+								["g"] = 0.8196079134941101,
+								["size"] = 12,
+							},
+							["bagFont"] = {
+								["name"] = "Friz Quadrata TT",
+								["r"] = 1,
+								["b"] = 1,
+								["g"] = 1,
+								["size"] = 16,
+							},
+							["borderWidth"] = 16,
+							["color"] = {
+								0, -- [1]
+								0, -- [2]
+								0, -- [3]
+								1, -- [4]
+							},
+							["background"] = "Blizzard Dialog Background",
+							["border"] = "Blizzard Tooltip",
+							["insets"] = 3,
+						},
+					},
 				},
 			},
 		},
