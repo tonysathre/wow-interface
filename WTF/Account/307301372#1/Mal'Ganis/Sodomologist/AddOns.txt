@@ -83,7 +83,7 @@ HandyNotes_DraenorTreasures: disabled
 Bagnon_ItemLevel: disabled
 Bagnon_BoE: disabled
 Bagnon_Masque: disabled
-HandyNotes: disabled
+HandyNotes: enabled
 BigWigs_Core: enabled
 BigWigs_Options: enabled
 BigWigs_Plugins: enabled
@@ -103,5 +103,7 @@ MBB: disabled
 QuestCompletist: disabled
 Postal: disabled
 ItemRack: enabled
-SpeedyAutoLoot: disabled
+SpeedyAutoLoot: enabled
 SimpleItemLevel: disabled
+ElvUI_ChatTweaks: disabled
+WunderUI: disabled

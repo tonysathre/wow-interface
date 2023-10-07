@@ -1,8 +1,8 @@
 
 OmniCDDB = {
 	["profileKeys"] = {
-		["Sodomologist - Mal'Ganis"] = "[IMPORT-1]Quazii OmniCD",
 		["Verypoopy - Thrall"] = "Default",
+		["Sodomologist - Mal'Ganis"] = "[IMPORT-1]Quazii OmniCD",
 	},
 	["namespaces"] = {
 		["LibDualSpec-1.0"] = {
@@ -10,11 +10,12 @@ OmniCDDB = {
 		["BattleRes"] = {
 			["profiles"] = {
 				["[IMPORT-1]Quazii OmniCD"] = {
+					["locked"] = true,
 					["iconTexture"] = 136210,
 					["manualPos"] = {
 						["OmniCDBrez"] = {
-							["y"] = 367.9702780073967,
-							["x"] = 512.3858196987749,
+							["y"] = 385.7481430212101,
+							["x"] = 511.67488218156,
 						},
 					},
 				},
@@ -47,12 +48,6 @@ OmniCDDB = {
 			},
 			["Party"] = {
 				["party"] = {
-					["spells"] = {
-						["*"] = false,
-						["191427"] = false,
-						["33891"] = false,
-						["205604"] = false,
-					},
 					["extraBars"] = {
 						["raidBar0"] = {
 							["manualPos"] = {
@@ -62,6 +57,12 @@ OmniCDDB = {
 								},
 							},
 						},
+					},
+					["spells"] = {
+						["205604"] = false,
+						["33891"] = false,
+						["191427"] = false,
+						["*"] = false,
 					},
 					["icons"] = {
 						["scale"] = 0.75,
@@ -89,10 +90,11 @@ OmniCDDB = {
 							["growUpward"] = true,
 							["manualPos"] = {
 								["raidBar0"] = {
-									["y"] = 368.0010505775863,
-									["x"] = 397.1561294085586,
+									["y"] = 375.1122052636674,
+									["x"] = 396.4450616830072,
 								},
 							},
+							["locked"] = true,
 						},
 						["raidBar1"] = {
 							["spellType"] = {
@@ -112,8 +114,8 @@ OmniCDDB = {
 								["consumable"] = false,
 								["offensive"] = false,
 								["raidDefensive"] = false,
-								["immunity"] = false,
 								["raidMovement"] = false,
+								["immunity"] = false,
 							},
 							["manualPos"] = {
 								["raidBar1"] = {
@@ -126,36 +128,43 @@ OmniCDDB = {
 							["enabled"] = false,
 						},
 					},
-					["highlight"] = {
-						["glowType"] = "actionBar",
+					["manualPos"] = {
+						["interruptBar"] = {
+							["y"] = 473.3865909814849,
+							["x"] = 1111.147240788923,
+						},
+						["raidCDBar"] = {
+							["y"] = 439.7867479825,
+							["x"] = 1097.280053598879,
+						},
 					},
 					["spells"] = {
 						["374227"] = false,
 						["363916"] = false,
 						["216331"] = false,
 						["118038"] = false,
-						["198589"] = false,
+						["740"] = false,
 						["1022"] = false,
-						["266779"] = true,
+						["116849"] = false,
 						["8143"] = false,
 						["33891"] = false,
 						["115750"] = false,
 						["22812"] = false,
 						["187827"] = false,
 						["212295"] = false,
-						["187650"] = false,
+						["344916"] = true,
 						["8122"] = false,
 						["235219"] = false,
-						["104773"] = false,
+						["48020"] = false,
 						["113860"] = true,
 						["386071"] = true,
-						["5246"] = false,
+						["336126"] = false,
 						["215652"] = false,
 						["59752"] = false,
 						["357170"] = false,
-						["114052"] = false,
+						["7744"] = false,
 						["115203"] = false,
-						["15286"] = false,
+						["319952"] = true,
 						["210918"] = false,
 						["336135"] = false,
 						["209258"] = false,
@@ -180,7 +189,7 @@ OmniCDDB = {
 						["377509"] = false,
 						["228049"] = false,
 						["186265"] = false,
-						["48792"] = false,
+						["360194"] = false,
 						["51052"] = false,
 						["115310"] = false,
 						["205604"] = false,
@@ -189,7 +198,7 @@ OmniCDDB = {
 						["31884"] = false,
 						["64044"] = false,
 						["62618"] = false,
-						["31821"] = false,
+						["108280"] = false,
 						["97462"] = false,
 						["342245"] = false,
 						["197268"] = false,
@@ -199,46 +208,46 @@ OmniCDDB = {
 						["190319"] = false,
 						["113858"] = true,
 						["109304"] = false,
-						["108280"] = false,
+						["31821"] = false,
 						["378441"] = false,
 						["871"] = false,
 						["47536"] = false,
-						["114556"] = false,
-						["740"] = false,
-						["319952"] = true,
-						["116849"] = false,
+						["64843"] = false,
+						["198589"] = false,
+						["5246"] = false,
+						["266779"] = true,
 						["98008"] = false,
-						["360194"] = false,
+						["48792"] = false,
 						["2094"] = false,
 						["378464"] = false,
 						["374348"] = false,
-						["86949"] = false,
+						["114556"] = false,
 						["310454"] = true,
-						["102342"] = false,
-						["344916"] = true,
-						["19236"] = false,
-						["198838"] = false,
+						["61336"] = false,
+						["187650"] = false,
+						["184364"] = false,
+						["265202"] = false,
 						["372048"] = false,
-						["48020"] = false,
+						["104773"] = false,
 						["5277"] = false,
 						["1856"] = false,
-						["6789"] = false,
-						["108271"] = false,
-						["336126"] = false,
+						["48707"] = false,
+						["108968"] = false,
+						["199452"] = false,
 						["323764"] = true,
 						["77761"] = true,
-						["199452"] = false,
-						["196555"] = false,
-						["47585"] = false,
 						["33206"] = false,
-						["7744"] = false,
+						["196555"] = false,
+						["114052"] = false,
+						["47585"] = false,
+						["15286"] = false,
 						["642"] = false,
-						["108968"] = false,
-						["48707"] = false,
-						["64843"] = false,
-						["265202"] = false,
-						["61336"] = false,
-						["184364"] = false,
+						["108271"] = false,
+						["6789"] = false,
+						["198838"] = false,
+						["102342"] = false,
+						["86949"] = false,
+						["19236"] = false,
 					},
 					["icons"] = {
 						["counterScale"] = 1,
@@ -254,15 +263,8 @@ OmniCDDB = {
 						["anchor"] = "TOPRIGHT",
 						["offsetY"] = 11,
 					},
-					["manualPos"] = {
-						["raidCDBar"] = {
-							["y"] = 439.7867479825,
-							["x"] = 1097.280053598879,
-						},
-						["interruptBar"] = {
-							["y"] = 473.3865909814849,
-							["x"] = 1111.147240788923,
-						},
+					["highlight"] = {
+						["glowType"] = "actionBar",
 					},
 				},
 				["noneZoneSetting"] = "party",
@@ -272,10 +274,15 @@ OmniCDDB = {
 				},
 			},
 			["General"] = {
+				["textures"] = {
+					["statusBar"] = {
+						["BG"] = "- Tx Left",
+						["bar"] = "- Tx Left",
+					},
+				},
 				["fonts"] = {
 					["statusBar"] = {
 						["font"] = "- M 600",
-						["flag"] = "OUTLINE",
 					},
 					["anchor"] = {
 						["font"] = "- M 600",
@@ -285,12 +292,6 @@ OmniCDDB = {
 					["icon"] = {
 						["font"] = "- M 600",
 						["size"] = 14,
-					},
-				},
-				["textures"] = {
-					["statusBar"] = {
-						["BG"] = "- Tx Left",
-						["bar"] = "- Tx Left",
 					},
 				},
 			},

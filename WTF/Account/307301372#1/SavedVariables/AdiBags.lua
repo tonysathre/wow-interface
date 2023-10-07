@@ -41,31 +41,37 @@ AdiBagsDB = {
 		},
 		["AdiBags_TooltipInfo"] = {
 		},
-		["Dragonflight"] = {
-		},
-		["MoneyFrame"] = {
-		},
-		["ItemSets"] = {
-		},
-		["CurrencyFrame"] = {
-			["profiles"] = {
-				["Default"] = {
-					["shown"] = {
-						["Honor"] = false,
-					},
-				},
-			},
-		},
-		["DataSource"] = {
-		},
-		["Junk"] = {
-		},
 		["Equipment"] = {
 			["profiles"] = {
 				["Default"] = {
 					["armorTypes"] = true,
 				},
 			},
+		},
+		["MoneyFrame"] = {
+		},
+		["DataSource"] = {
+		},
+		["CurrencyFrame"] = {
+			["profiles"] = {
+				["Default"] = {
+					["shown"] = {
+						["Storm Sigil"] = true,
+						["Order Resources"] = true,
+						["Honor"] = false,
+						["Curious Coin"] = false,
+						["Valor"] = true,
+						["Elemental Overflow"] = true,
+						["Timewarped Badge"] = true,
+					},
+				},
+			},
+		},
+		["ItemSets"] = {
+		},
+		["Junk"] = {
+		},
+		["Dragonflight"] = {
 		},
 	},
 	["profileKeys"] = {
@@ -85,9 +91,9 @@ AdiBagsDB = {
 					["yOffset"] = 114.0000762939453,
 				},
 				["Backpack"] = {
-					["xOffset"] = -66.1766357421875,
+					["xOffset"] = -78.17529296875,
 					["point"] = "TOPRIGHT",
-					["yOffset"] = -179.3528442382813,
+					["yOffset"] = -113.3504028320313,
 				},
 			},
 			["modules"] = {
@@ -95,8 +101,8 @@ AdiBagsDB = {
 			},
 			["compactLayout"] = true,
 			["columnWidth"] = {
-				["Bank"] = 12,
 				["Backpack"] = 12,
+				["Bank"] = 12,
 			},
 			["theme"] = {
 				["currentTheme"] = "Sodomologist",
@@ -110,6 +116,13 @@ AdiBagsDB = {
 								["g"] = 0.8196079134941101,
 								["size"] = 12,
 							},
+							["color"] = {
+								0, -- [1]
+								0, -- [2]
+								0, -- [3]
+								1, -- [4]
+							},
+							["border"] = "Blizzard Tooltip",
 							["bagFont"] = {
 								["name"] = "Friz Quadrata TT",
 								["r"] = 1,
@@ -117,41 +130,8 @@ AdiBagsDB = {
 								["g"] = 1,
 								["size"] = 16,
 							},
-							["borderWidth"] = 16,
-							["color"] = {
-								0, -- [1]
-								0, -- [2]
-								0, -- [3]
-								1, -- [4]
-							},
 							["background"] = "Blizzard Dialog Background",
-							["border"] = "Blizzard Tooltip",
-							["insets"] = 3,
-						},
-						["backpack"] = {
-							["sectionFont"] = {
-								["name"] = "Friz Quadrata TT",
-								["r"] = 1,
-								["b"] = 0,
-								["g"] = 0.8196079134941101,
-								["size"] = 12,
-							},
-							["bagFont"] = {
-								["name"] = "Friz Quadrata TT",
-								["r"] = 1,
-								["b"] = 1,
-								["g"] = 1,
-								["size"] = 16,
-							},
 							["borderWidth"] = 16,
-							["color"] = {
-								0, -- [1]
-								0, -- [2]
-								0, -- [3]
-								1, -- [4]
-							},
-							["background"] = "Blizzard Dialog Background",
-							["border"] = "Blizzard Tooltip",
 							["insets"] = 3,
 						},
 						["bank"] = {
@@ -162,6 +142,13 @@ AdiBagsDB = {
 								["g"] = 0.8196079134941101,
 								["size"] = 12,
 							},
+							["color"] = {
+								0, -- [1]
+								0, -- [2]
+								0, -- [3]
+								1, -- [4]
+							},
+							["border"] = "Blizzard Tooltip",
 							["bagFont"] = {
 								["name"] = "Friz Quadrata TT",
 								["r"] = 1,
@@ -169,15 +156,34 @@ AdiBagsDB = {
 								["g"] = 1,
 								["size"] = 16,
 							},
+							["background"] = "Blizzard Dialog Background",
 							["borderWidth"] = 16,
+							["insets"] = 3,
+						},
+						["backpack"] = {
+							["sectionFont"] = {
+								["name"] = "Friz Quadrata TT",
+								["r"] = 1,
+								["b"] = 0,
+								["g"] = 0.8196079134941101,
+								["size"] = 12,
+							},
 							["color"] = {
 								0, -- [1]
 								0, -- [2]
 								0, -- [3]
 								1, -- [4]
 							},
-							["background"] = "Blizzard Dialog Background",
 							["border"] = "Blizzard Tooltip",
+							["bagFont"] = {
+								["name"] = "Friz Quadrata TT",
+								["r"] = 1,
+								["b"] = 1,
+								["g"] = 1,
+								["size"] = 16,
+							},
+							["background"] = "Blizzard Dialog Background",
+							["borderWidth"] = 16,
 							["insets"] = 3,
 						},
 					},

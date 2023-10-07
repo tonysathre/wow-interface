@@ -1,6 +1,10 @@
 VER 3 0000000000000006 "Dismiss Demon" "615103"
 /script PetDismiss()
 END
+VER 3 0000000000000008 "Shadowfury" "607865"
+#showtooltip
+/cast [@cursor] Shadowfury
+END
 VER 3 0000000000000007 "SoulKeeper" "134400"
 #showtooltip
 /cast [@cursor] Summon Soulkeeper

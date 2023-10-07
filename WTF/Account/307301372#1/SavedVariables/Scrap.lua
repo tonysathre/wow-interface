@@ -2,11 +2,11 @@
 Scrap_Sets = {
 	["repair"] = true,
 	["glow"] = true,
-	["safe"] = true,
+	["safe"] = false,
 	["list"] = {
 	},
-	["tutorial"] = 5,
+	["destroy"] = true,
 	["sell"] = true,
 	["icons"] = true,
-	["destroy"] = true,
+	["tutorial"] = 5,
 }

@@ -1,10 +1,12 @@
 
 DeathNoteDB = {
 	["profileKeys"] = {
-		["Sodomologist - Mal'Ganis"] = "Sodomologist - Mal'Ganis",
 		["Verypoopy - Thrall"] = "Verypoopy - Thrall",
+		["Sodomologist - Mal'Ganis"] = "Sodomologist - Mal'Ganis",
 	},
 	["profiles"] = {
+		["Verypoopy - Thrall"] = {
+		},
 		["Sodomologist - Mal'Ganis"] = {
 			["searchbox_text"] = "",
 			["display"] = {
@@ -16,15 +18,13 @@ DeathNoteDB = {
 				},
 				["w"] = 700.0000610351562,
 				["y"] = -81.00018310546875,
-				["h"] = 499.9999084472656,
 				["x"] = 68.00088500976562,
+				["h"] = 499.9999084472656,
 			},
 			["announce"] = {
 				["enable"] = true,
 				["channel"] = "SAY",
 			},
-		},
-		["Verypoopy - Thrall"] = {
 		},
 	},
 }

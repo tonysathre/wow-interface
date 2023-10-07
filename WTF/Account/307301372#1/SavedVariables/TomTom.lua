@@ -1,8 +1,8 @@
 
 TomTomDB = {
 	["profileKeys"] = {
-		["Sodomologist - Mal'Ganis"] = "Default",
 		["Verypoopy - Thrall"] = "Default",
+		["Sodomologist - Mal'Ganis"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -11,14 +11,16 @@ TomTomDB = {
 				["modifier"] = "C",
 			},
 			["arrow"] = {
+				["highstrata"] = true,
 				["position"] = {
 					"TOPRIGHT", -- [1]
 					nil, -- [2]
 					"TOPRIGHT", -- [3]
-					-235.0003204345703, -- [4]
-					-149.9998779296875, -- [5]
+					-130.4451446533203, -- [4]
+					-314.0023803710938, -- [5]
 				},
 				["closestusecontinent"] = true,
+				["scale"] = 0.7000000000000001,
 				["stickycorpse"] = true,
 			},
 			["worldmap"] = {
@@ -44,10 +46,12 @@ TomTomDB = {
 TomTomWaypoints = nil
 TomTomWaypointsM = {
 	["profileKeys"] = {
-		["Sodomologist - Mal'Ganis"] = "Sodomologist - Mal'Ganis",
 		["Verypoopy - Thrall"] = "Verypoopy - Thrall",
+		["Sodomologist - Mal'Ganis"] = "Sodomologist - Mal'Ganis",
 	},
 	["profiles"] = {
+		["Verypoopy - Thrall"] = {
+		},
 		["Sodomologist - Mal'Ganis"] = {
 			[2024] = {
 				["2024:139915907.92497:455597352.36497:TomTom waypoint"] = {
@@ -82,8 +86,6 @@ TomTomWaypointsM = {
 					["world"] = true,
 				},
 			},
-		},
-		["Verypoopy - Thrall"] = {
 		},
 	},
 }

@@ -3,8 +3,8 @@ RaiderIO_Config = {
 }
 RaiderIO_LastCharacter = "us-Sodomologist-malganis"
 RaiderIO_MissingCharacters = {
-	["us-Noburik-malganis"] = true,
-	["us-Obeseloser-stormrage"] = true,
+	["us-Schörner-malganis"] = true,
+	["us-Aguaz-malganis"] = true,
 }
 RaiderIO_MissingServers = {
 }
